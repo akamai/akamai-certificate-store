@@ -1,10 +1,12 @@
 # Certificates in Akamai's trust store
 
 - This is known internally as the 'permissive-set' for historical reasons.
-- Last updated: Tue Nov 19 15:40:27 EST 2024.
+- Last updated: Tue Nov 19 15:57:20 EST 2024.
 - There are 88 entries.
+- Certs below are listed in order of their digest value;
+we know this is not incredibly useful.
 
-Links below point to the `https://crt.sh` service.
+Links below point to the full certificate on `https://crt.sh`.
 
 - C=US, O=Entrust, Inc., OU=See www.entrust.net/legal-terms, OU=(c) 2012 Entrust, Inc. - for authorized use only, CN=Entrust Root Certification Authority - EC1  
 https://crt.sh?q=02ED0EB28C14DA45165C566791700D6451D7FB56F0B2AB1D3B8EB070E56EDFF5
