@@ -1,6 +1,6 @@
 # Akamai's Certificate Store
 
-- Last updated: Wed Nov 20 10:19:00 EST 2024.
+- Last updated: Wed Nov 20 10:24:04 EST 2024.
 - There are 87 entries.
 - Certs below are listed in order of their digest value;
 we know this is not incredibly useful.
