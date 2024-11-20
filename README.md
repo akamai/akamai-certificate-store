@@ -1,5 +1,7 @@
-# trust-store
+# Akamai Certificate Store
 
-This repository has details about Akamai's trust store.
+This repository has details about Akamai's certificate store
 
-Full listing in [akamai-trust-store.md](akamai-trust-store.md)
+The full listing of all certificates, with some information about each
+one, and a link to the full information, is available at
+[akamai-certificate-store.md](akamai-certificate-store.md)
