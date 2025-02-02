@@ -1,11 +1,17 @@
 # Akamai's Certificate Store
 
-- Last updated: Sun Jan 5 21:40:49 EST 2025.
-- There are 87 entries.
+- Last updated: Sun Feb 2 12:30:57 EST 2025.
+- There are 91 entries.
 - Certs below are listed in order of their digest value;
 we know this is not incredibly useful.
 
 Links below point to the full certificate on `https://crt.sh`.
+
+- Name: C=US, O=DigiCert, Inc., CN=DigiCert TLS ECC P384 Root G5  
+  Fingerprint: 17:F3:DE:5E:9F:0F:19:E9:8E:F6:1F:32:26:6E:20:C4:07:AE:30:EE  
+  Serial:  09E09365ACF7D9C8B93E1C0B042A2EF3  
+  Expires:  Jan 14 23:59:59 2046 GMT  
+  https://crt.sh?q=018E13F0772532CF809BD1B17281867283FC48C6E13BE9C69812854A490C1B05
 
 - Name: C=US, O=Entrust, Inc., OU=See www.entrust.net/legal-terms, OU=(c) 2012 Entrust, Inc. - for authorized use only, CN=Entrust Root Certification Authority - EC1  
   Fingerprint: 20:D8:06:40:DF:9B:25:F5:12:25:3A:11:EA:F7:59:8A:EB:14:B5:47  
@@ -138,6 +144,12 @@ Links below point to the full certificate on `https://crt.sh`.
   Serial:  66F23DAF87DE8BB14AEA0C573101C2EC  
   Expires:  Jul 18 23:16:04 2042 GMT  
   https://crt.sh?q=358DF39D764AF9E1B766E9C972DF352EE15CFAC227AF6AD1D70E8E4A6EDCBA02
+
+- Name: C=US, O=DigiCert, Inc., CN=DigiCert TLS RSA4096 Root G5  
+  Fingerprint: A7:88:49:DC:5D:7C:75:8C:8C:DE:39:98:56:B3:AA:D0:B2:A5:71:35  
+  Serial:  08F9B478A8FA7EDA6A333789DE7CCF8A  
+  Expires:  Jan 14 23:59:59 2046 GMT  
+  https://crt.sh?q=371A00DC0533B3721A7EEB40E8419E70799D2B0A0F2C1D80693165F7CEC4AD75
 
 - Name: C=US, O=GeoTrust Inc., CN=GeoTrust Primary Certification Authority  
   Fingerprint: 32:3C:11:8E:1B:F7:B8:B6:52:54:E2:E2:10:0D:D6:02:90:37:F0:96  
@@ -295,6 +307,12 @@ Links below point to the full certificate on `https://crt.sh`.
   Expires:  Nov 10 00:00:00 2031 GMT  
   https://crt.sh?q=7431E5F4C3C1CE4690774F0B61E05440883BA9A01ED00BA6ABD7806ED3B118CF
 
+- Name: C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication Root R46  
+  Fingerprint: AD:98:F9:F3:E4:7D:75:3B:65:D4:82:B3:A4:52:17:BB:6E:F5:E4:38  
+  Serial:  758DFD8BAE7C0700FAA925A7E1C7AD14  
+  Expires:  Mar 21 23:59:59 2046 GMT  
+  https://crt.sh?q=7BB647A62AEEAC88BF257AA522D01FFEA395E0AB45C73F93F65654EC38F25A06
+
 - Name: C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Assured ID Root G2  
   Fingerprint: A1:4B:48:D9:43:EE:0A:0E:40:90:4F:3C:E0:A4:C0:91:93:51:5D:3F  
   Serial:  0B931C3AD63967EA6723BFC3AF9AF44B  
@@ -450,6 +468,12 @@ Links below point to the full certificate on `https://crt.sh`.
   Serial:  1ED397095FD8B4B347701EAABE7F45B3  
   Expires:  Jul 18 23:00:23 2042 GMT  
   https://crt.sh?q=C741F70F4B2A8D88BF2E71C14122EF53EF10EBA0CFA5E64CFA20F418853073E0
+
+- Name: C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication Root E46  
+  Fingerprint: EC:8A:39:6C:40:F0:2E:BC:42:75:D4:9F:AB:1C:1A:5B:67:BE:D2:9A  
+  Serial:  42F2CCDA1B6937445F15FE752810B8F4  
+  Expires:  Mar 21 23:59:59 2046 GMT  
+  https://crt.sh?q=C90F26F0FB1B4018B22227519B5CA2B53E2CA5B3BE5CF18EFE1BEF47380C5383
 
 - Name: C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2  
   Fingerprint: DF:3C:24:F9:BF:D6:66:76:1B:26:80:73:FE:06:D1:CC:8D:4F:82:A4  
