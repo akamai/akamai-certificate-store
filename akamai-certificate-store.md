@@ -1,555 +1,460 @@
-# Akamai's Certificate Store
-
-- Last updated: Sat Mar 15 06:48:13 EDT 2025.
-- There are 91 entries.
-- Certs below are listed in order of their digest value;
-we know this is not incredibly useful.
-
-Links below point to the full certificate on `https://crt.sh`.
-
-- Name: C=US, O=DigiCert, Inc., CN=DigiCert TLS ECC P384 Root G5  
-  Fingerprint: 17:F3:DE:5E:9F:0F:19:E9:8E:F6:1F:32:26:6E:20:C4:07:AE:30:EE  
-  Serial:  09E09365ACF7D9C8B93E1C0B042A2EF3  
-  Expires:  Jan 14 23:59:59 2046 GMT  
-  https://crt.sh?q=018E13F0772532CF809BD1B17281867283FC48C6E13BE9C69812854A490C1B05
-
-- Name: C=US, O=Entrust, Inc., OU=See www.entrust.net/legal-terms, OU=(c) 2012 Entrust, Inc. - for authorized use only, CN=Entrust Root Certification Authority - EC1  
-  Fingerprint: 20:D8:06:40:DF:9B:25:F5:12:25:3A:11:EA:F7:59:8A:EB:14:B5:47  
-  Serial:  A68B79290000000050D091F9  
-  Expires:  Dec 18 15:55:36 2037 GMT  
-  https://crt.sh?q=02ED0EB28C14DA45165C566791700D6451D7FB56F0B2AB1D3B8EB070E56EDFF5
-
-- Name: C=US, O=AffirmTrust, CN=AffirmTrust Commercial  
-  Fingerprint: F9:B5:B6:32:45:5F:9C:BE:EC:57:5F:80:DC:E9:6E:2C:C7:B2:78:B7  
-  Serial:  7777062726A9B17C  
-  Expires:  Dec 31 14:06:06 2030 GMT  
-  https://crt.sh?q=0376AB1D54C5F9803CE4B2E201A0EE7EEF7B57B636E8A93C9B8D4860C96F5FA7
-
-- Name: C=US, O=AffirmTrust, CN=AffirmTrust Networking  
-  Fingerprint: 29:36:21:02:8B:20:ED:02:F5:66:C5:32:D1:D6:ED:90:9F:45:00:2F  
-  Serial:  7C4F04391CD4992D  
-  Expires:  Dec 31 14:08:24 2030 GMT  
-  https://crt.sh?q=0A81EC5A929777F145904AF38D5D509F66B5E2C58FCDB531058B0E17F3F0B41B
-
-- Name: C=GB, ST=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO Certification Authority  
-  Fingerprint: 66:31:BF:9E:F7:4F:9E:B6:C9:D5:A6:0C:BA:6A:BE:D1:F7:BD:EF:7B  
-  Serial:  4E812D8A8265E00B02EE3E350246E53D  
-  Expires:  Dec 31 23:59:59 2029 GMT  
-  https://crt.sh?q=0C2CD63DF7806FA399EDE809116B575BF87989F06518F9808C860503178BAF66
-
-- Name: C=US, O=Starfield Technologies, Inc., OU=Starfield Class 2 Certification Authority  
-  Fingerprint: AD:7E:1C:28:B0:64:EF:8F:60:03:40:20:14:C3:D0:E3:37:0E:B5:8A  
-  Serial:  00  
-  Expires:  Jun 29 17:39:16 2034 GMT  
-  https://crt.sh?q=1465FA205397B876FAA6F0A9958E5590E40FCC7FAA4FB7C2C8677521FB5FB658
-
-- Name: C=IE, O=Baltimore, OU=CyberTrust, CN=Baltimore CyberTrust Root  
-  Fingerprint: D4:DE:20:D0:5E:66:FC:53:FE:1A:50:88:2C:78:DB:28:52:CA:E4:74  
-  Serial:  020000B9  
-  Expires:  May 12 23:59:00 2025 GMT  
-  https://crt.sh?q=16AF57A9F676B0AB126095AA5EBADEF22AB31119D644AC95CD4B93DBF3F26AEB
-
-- Name: C=GB, ST=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO ECC Certification Authority  
-  Fingerprint: 9F:74:4E:9F:2B:4D:BA:EC:0F:31:2C:50:B6:56:3B:8E:2D:93:C3:11  
-  Serial:  1F47AFAA62007050544C019E9B63992A  
-  Expires:  Jan 18 23:59:59 2038 GMT  
-  https://crt.sh?q=1793927A0614549789ADCE2F8F34F7F0B66D0F3AE3A3B84D21EC15DBBA4FADC7
-
-- Name: OU=GlobalSign ECC Root CA - R5, O=GlobalSign, CN=GlobalSign  
-  Fingerprint: 1F:24:C6:30:CD:A4:18:EF:20:69:FF:AD:4F:DD:5F:46:3A:1B:69:AA  
-  Serial:  605949E0262EBB55F90A778A71F94AD86C  
-  Expires:  Jan 19 03:14:07 2038 GMT  
-  https://crt.sh?q=179FBC148A3DD00FD24EA13458CC43BFA7F59C8182D783A513F6EBEC100C8924
-
-- Name: C=US, O=Amazon, CN=Amazon Root CA 3  
-  Fingerprint: 0D:44:DD:8C:3C:8C:1A:1A:58:75:64:81:E9:0F:2E:2A:FF:B3:D2:6E  
-  Serial:  066C9FD5749736663F3B0B9AD9E89E7603F24A  
-  Expires:  May 26 00:00:00 2040 GMT  
-  https://crt.sh?q=18CE6CFE7BF14E60B2E347B8DFE868CB31D02EBB3ADA271569F50343B46DB3A4
-
-- Name: C=BM, O=QuoVadis Limited, CN=QuoVadis Root CA 3  
-  Fingerprint: 1F:49:14:F7:D8:74:95:1D:DD:AE:02:C0:BE:FD:3A:2D:82:75:51:85  
-  Serial:  05C6  
-  Expires:  Nov 24 19:06:44 2031 GMT  
-  https://crt.sh?q=18F1FC7F205DF8ADDDEB7FE007DD57E3AF375A9C4D8D73546BF4F1FED1E18D35
-
-- Name: C=US, O=Amazon, CN=Amazon Root CA 2  
-  Fingerprint: 5A:8C:EF:45:D7:A6:98:59:76:7A:8C:8B:44:96:B5:78:CF:47:4B:1A  
-  Serial:  066C9FD29635869F0A0FE58678F85B26BB8A37  
-  Expires:  May 26 00:00:00 2040 GMT  
-  https://crt.sh?q=1BA5B2AA8C65401A82960118F80BEC4F62304D83CEC4713A19C39C011EA46DB4
-
-- Name: C=US, ST=Texas, L=Houston, O=SSL Corporation, CN=SSL.com EV Root Certification Authority ECC  
-  Fingerprint: 4C:DD:51:A3:D1:F5:20:32:14:B0:C6:C5:32:23:03:91:C7:46:42:6D  
-  Serial:  2C299C5B16ED0595  
-  Expires:  Feb 12 18:15:23 2041 GMT  
-  https://crt.sh?q=22A2C1F7BDED704CC1E701B5F408C310880FE956B5DE2A4A44F99C873A25A7C8
-
-- Name: C=US, O=VeriSign, Inc., OU=VeriSign Trust Network, OU=(c) 2008 VeriSign, Inc. - For authorized use only, CN=VeriSign Universal Root Certification Authority  
-  Fingerprint: 36:79:CA:35:66:87:72:30:4D:30:A5:FB:87:3B:0F:A7:7B:B7:0D:54  
-  Serial:  401AC46421B31321030EBBE4121AC51D  
-  Expires:  Dec  1 23:59:59 2037 GMT  
-  https://crt.sh?q=2399561127A57125DE8CEFEA610DDF2FA078B5C8067F4E828290BFB860E84B3C
-
-- Name: OU=GlobalSign Root CA - R6, O=GlobalSign, CN=GlobalSign  
-  Fingerprint: 80:94:64:0E:B5:A7:A1:CA:11:9C:1F:DD:D5:9F:81:02:63:A7:FB:D1  
-  Serial:  45E6BB038333C3856548E6FF4551  
-  Expires:  Dec 10 00:00:00 2034 GMT  
-  https://crt.sh?q=2CABEAFE37D06CA22ABA7391C0033D25982952C453647349763A3AB5AD6CCF69
-
-- Name: C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Root Certificate Authority - G2  
-  Fingerprint: B5:1C:06:7C:EE:2B:0C:3D:F8:55:AB:2D:92:F4:FE:39:D4:E7:0F:0E  
-  Serial:  00  
-  Expires:  Dec 31 23:59:59 2037 GMT  
-  https://crt.sh?q=2CE1CB0BF9D2F9E102993FBE215152C3B2DD0CABDE1C68E5319B839154DBB7F5
-
-- Name: C=US, ST=Texas, L=Houston, O=SSL Corporation, CN=SSL.com EV Root Certification Authority RSA R2  
-  Fingerprint: 74:3A:F0:52:9B:D0:32:A0:F4:4A:83:CD:D4:BA:A9:7B:7C:2E:C4:9A  
-  Serial:  56B629CD34BC78F6  
-  Expires:  May 30 18:14:37 2042 GMT  
-  https://crt.sh?q=2E7BF16CC22485A7BBE2AA8696750761B0AE39BE3B2FE9D0CC6D4EF73491425C
-
-- Name: C=US, O=IdenTrust, CN=IdenTrust Public Sector Root CA 1  
-  Fingerprint: BA:29:41:60:77:98:3F:F4:F3:EF:F2:31:05:3B:2E:EA:6D:4D:45:FD  
-  Serial:  0A0142800000014523CF467C00000002  
-  Expires:  Jan 16 17:53:32 2034 GMT  
-  https://crt.sh?q=30D0895A9A448A262091635522D1F52010B5867ACAE12C78EF958FD4F4389F2F
-
-- Name: C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G3  
-  Fingerprint: 7E:04:DE:89:6A:3E:66:6D:00:E6:87:D3:3F:FA:D9:3B:E8:3D:34:9E  
-  Serial:  055556BCF25EA43535C3A40FD5AB4572  
-  Expires:  Jan 15 12:00:00 2038 GMT  
-  https://crt.sh?q=31AD6648F8104138C738F39EA4320133393E3A18CC02296EF97C2AC9EF6731D0
-
-- Name: C=US, ST=Texas, L=Houston, O=SSL Corporation, CN=SSL.com Root Certification Authority ECC  
-  Fingerprint: C3:19:7C:39:24:E6:54:AF:1B:C4:AB:20:95:7A:E2:C3:0E:13:02:6A  
-  Serial:  75E6DFCBC1685BA8  
-  Expires:  Feb 12 18:14:03 2041 GMT  
-  https://crt.sh?q=3417BB06CC6007DA1B961C920B8AB4CE3FAD820E4AA30B9ACBC4A74EBDCEBC65
-
-- Name: C=US, O=Google Trust Services LLC, CN=GTS Root R4  
-  Fingerprint: 77:D3:03:67:B5:E0:0C:15:F6:0C:38:61:DF:7C:E1:3B:92:46:4D:47  
-  Serial:  0203E5C068EF631A9C72905052  
-  Expires:  Jun 22 00:00:00 2036 GMT  
-  https://crt.sh?q=349DFA4058C5E263123B398AE795573C4E1313C83FE68F93556CD5E8031B3C7D
-
-- Name: C=US, O=Google Trust Services LLC, CN=GTS Root R3  
-  Fingerprint: ED:E5:71:80:2B:C8:92:B9:5B:83:3C:D2:32:68:3F:09:CD:A0:1E:46  
-  Serial:  0203E5B882EB20F825276D3D66  
-  Expires:  Jun 22 00:00:00 2036 GMT  
-  https://crt.sh?q=34D8A73EE208D9BCDB0D956520934B4E40E69482596E8B6F73C8426B010A6F48
-
-- Name: C=US, O=Microsoft Corporation, CN=Microsoft ECC Root Certificate Authority 2017  
-  Fingerprint: 99:9A:64:C3:7F:F4:7D:9F:AB:95:F1:47:69:89:14:60:EE:C4:C3:C5  
-  Serial:  66F23DAF87DE8BB14AEA0C573101C2EC  
-  Expires:  Jul 18 23:16:04 2042 GMT  
-  https://crt.sh?q=358DF39D764AF9E1B766E9C972DF352EE15CFAC227AF6AD1D70E8E4A6EDCBA02
-
-- Name: C=US, O=DigiCert, Inc., CN=DigiCert TLS RSA4096 Root G5  
-  Fingerprint: A7:88:49:DC:5D:7C:75:8C:8C:DE:39:98:56:B3:AA:D0:B2:A5:71:35  
-  Serial:  08F9B478A8FA7EDA6A333789DE7CCF8A  
-  Expires:  Jan 14 23:59:59 2046 GMT  
-  https://crt.sh?q=371A00DC0533B3721A7EEB40E8419E70799D2B0A0F2C1D80693165F7CEC4AD75
-
-- Name: C=US, O=GeoTrust Inc., CN=GeoTrust Primary Certification Authority  
-  Fingerprint: 32:3C:11:8E:1B:F7:B8:B6:52:54:E2:E2:10:0D:D6:02:90:37:F0:96  
-  Serial:  18ACB56AFD69B6153A636CAFDAFAC4A1  
-  Expires:  Jul 16 23:59:59 2036 GMT  
-  https://crt.sh?q=37D51006C512EAAB626421F1EC8C92013FC5F82AE98EE533EB4619B8DEB4D06C
-
-- Name: C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Assured ID Root CA  
-  Fingerprint: 05:63:B8:63:0D:62:D7:5A:BB:C8:AB:1E:4B:DF:B5:A8:99:B2:4D:43  
-  Serial:  0CE7E0E517D846FE8FE560FC1BF03039  
-  Expires:  Nov 10 00:00:00 2031 GMT  
-  https://crt.sh?q=3E9099B5015E8F486C00BCEA9D111EE721FABA355A89BCF1DF69561E3DC6325C
-
-- Name: C=IN, OU=emSign PKI, O=eMudhra Technologies Limited, CN=emSign Root CA - G1  
-  Fingerprint: 8A:C7:AD:8F:73:AC:4E:C1:B5:75:4D:A5:40:F4:FC:CF:7C:B5:8E:8C  
-  Serial:  31F5E4620C6C58EDD6D8  
-  Expires:  Feb 18 18:30:00 2043 GMT  
-  https://crt.sh?q=40F6AF0346A99AA1CD1D555A4E9CCE62C7F9634603EE406615833DC8C8D00367
-
-- Name: C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root CA  
-  Fingerprint: A8:98:5D:3A:65:E5:E5:C4:B2:D7:D6:6D:40:C6:DD:2F:B1:9C:54:36  
-  Serial:  083BE056904246B1A1756AC95991C74A  
-  Expires:  Nov 10 00:00:00 2031 GMT  
-  https://crt.sh?q=4348A0E9444C78CB265E058D5E8944B4D84F9662BD26DB257F8934A443C70161
-
-- Name: C=US, O=Entrust, Inc., OU=See www.entrust.net/legal-terms, OU=(c) 2009 Entrust, Inc. - for authorized use only, CN=Entrust Root Certification Authority - G2  
-  Fingerprint: 8C:F4:27:FD:79:0C:3A:D1:66:06:8D:E8:1E:57:EF:BB:93:22:72:D4  
-  Serial:  4A538C28  
-  Expires:  Dec  7 17:55:54 2030 GMT  
-  https://crt.sh?q=43DF5774B03E7FEF5FE40D931A7BEDF1BB2E6B42738C4E6D3841103D3AA7F339
-
-- Name: C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., CN=Go Daddy Root Certificate Authority - G2  
-  Fingerprint: 47:BE:AB:C9:22:EA:E8:0E:78:78:34:62:A7:9F:45:C2:54:FD:E6:8B  
-  Serial:  00  
-  Expires:  Dec 31 23:59:59 2037 GMT  
-  https://crt.sh?q=45140B3247EB9CC8C5B4F0D7B53091F73292089E6E5A63E2749DD3ACA9198EDA
-
-- Name: C=DE, O=D-Trust GmbH, CN=D-TRUST Root Class 3 CA 2 2009  
-  Fingerprint: 58:E8:AB:B0:36:15:33:FB:80:F7:9B:1B:6D:29:D3:FF:8D:5F:00:F0  
-  Serial:  0983F3  
-  Expires:  Nov  5 08:35:58 2029 GMT  
-  https://crt.sh?q=49E7A442ACF0EA6287050054B52564B650E4F49E42E348D6AA38E039E957B1C1
-
-- Name: C=US, O=thawte, Inc., OU=Certification Services Division, OU=(c) 2008 thawte, Inc. - For authorized use only, CN=thawte Primary Root CA - G3  
-  Fingerprint: F1:8B:53:8D:1B:E9:03:B6:A6:F0:56:43:5B:17:15:89:CA:F3:6B:F2  
-  Serial:  600197B746A7EAB4B49AD64B2FF790FB  
-  Expires:  Dec  1 23:59:59 2037 GMT  
-  https://crt.sh?q=4B03F45807AD70F21BFC2CAE71C9FDE4604C064CF5FFB686BAE5DBAAD7FDD34C
-
-- Name: C=BE, O=GlobalSign nv-sa, CN=GlobalSign Root R46  
-  Fingerprint: 53:A2:B0:4B:CA:6B:D6:45:E6:39:8A:8E:C4:0D:D2:BF:77:C3:A2:90  
-  Serial:  11D2BBB9D723189E405F0A9D2DD0DF2567D1  
-  Expires:  Mar 20 00:00:00 2046 GMT  
-  https://crt.sh?q=4FA3126D8D3A11D1C4855A4F807CBAD6CF919D3A5A88B03BEA2C6372D93C40C9
-
-- Name: C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust ECC Certification Authority  
-  Fingerprint: D1:CB:CA:5D:B2:D5:2A:7F:69:3B:67:4D:E5:F0:5A:1D:0C:95:7D:F0  
-  Serial:  5C8B99C55A94C5D27156DECD8980CC26  
-  Expires:  Jan 18 23:59:59 2038 GMT  
-  https://crt.sh?q=4FF460D54B9C86DABFBCFC5712E0400D2BED3FBC4D4FBDAA86E06ADCD2A9AD7A
-
-- Name: C=JP, O=SECOM Trust Systems CO.,LTD., OU=Security Communication RootCA2  
-  Fingerprint: 5F:3B:8C:F2:F8:10:B3:7D:78:B4:CE:EC:19:19:C3:73:34:B9:C7:74  
-  Serial:  00  
-  Expires:  May 29 05:00:39 2029 GMT  
-  https://crt.sh?q=513B2CECB810D4CDE5DD85391ADFC6C2DD60D87BB736D2B521484AA47A0EBEF6
-
-- Name: C=GB, ST=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO RSA Certification Authority  
-  Fingerprint: AF:E5:D2:44:A8:D1:19:42:30:FF:47:9F:E2:F8:97:BB:CD:7A:8C:B4  
-  Serial:  4CAAF9CADB636FE01FF74ED85B03869D  
-  Expires:  Jan 18 23:59:59 2038 GMT  
-  https://crt.sh?q=52F0E1C4E58EC629291B60317F074671B85D7EA80D5B07273463534B32B40234
-
-- Name: C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Trusted Root G4  
-  Fingerprint: DD:FB:16:CD:49:31:C9:73:A2:03:7D:3F:C8:3A:4D:7D:77:5D:05:E4  
-  Serial:  059B1B579E8E2132E23907BDA777755C  
-  Expires:  Jan 15 12:00:00 2038 GMT  
-  https://crt.sh?q=552F7BDCF1A7AF9E6CE672017F4F12ABF77240C78E761AC203D1D9D20AC89988
-
-- Name: C=IT, L=Milan, O=Actalis S.p.A./03358520967, CN=Actalis Authentication Root CA  
-  Fingerprint: F3:73:B3:87:06:5A:28:84:8A:F2:F3:4A:CE:19:2B:DD:C7:8E:9C:AC  
-  Serial:  570A119742C4E3CC  
-  Expires:  Sep 22 11:22:02 2030 GMT  
-  https://crt.sh?q=55926084EC963A64B96E2ABE01CE0BA86A64FBFEBCC7AAB5AFC155B37FD76066
-
-- Name: C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Services Root Certificate Authority - G2  
-  Fingerprint: 92:5A:8F:8D:2C:6D:04:E0:66:5F:59:6A:FF:22:D8:63:E8:25:6F:3F  
-  Serial:  00  
-  Expires:  Dec 31 23:59:59 2037 GMT  
-  https://crt.sh?q=568D6905A2C88708A4B3025190EDCFEDB1974A606A13C6E5290FCB2AE63EDAB5
-
-- Name: C=TW, O=TAIWAN-CA, OU=Root CA, CN=TWCA Global Root CA  
-  Fingerprint: 9C:BB:48:53:F6:A4:F6:D3:52:A4:E8:32:52:55:60:13:F5:AD:AF:65  
-  Serial:  0CBE  
-  Expires:  Dec 31 15:59:59 2030 GMT  
-  https://crt.sh?q=59769007F7685D0FCD50872F9F95D5755A5B2B457D81F3692B610A98672F0E1B
-
-- Name: C=PL, O=Unizeto Technologies S.A., OU=Certum Certification Authority, CN=Certum Trusted Network CA  
-  Fingerprint: 07:E0:32:E0:20:B7:2C:3F:19:2F:06:28:A2:59:3A:19:A7:0F:06:9E  
-  Serial:  0444C0  
-  Expires:  Dec 31 12:07:37 2029 GMT  
-  https://crt.sh?q=5C58468D55F58E497E743982D2B50010B6D165374ACF83A7D4A32DB768C4408E
-
-- Name: C=US, O=IdenTrust, CN=IdenTrust Commercial Root CA 1  
-  Fingerprint: DF:71:7E:AA:4A:D9:4E:C9:55:84:99:60:2D:48:DE:5F:BC:F0:3A:25  
-  Serial:  0A0142800000014523C844B500000002  
-  Expires:  Jan 16 18:12:23 2034 GMT  
-  https://crt.sh?q=5D56499BE4D2E08BCFCAD08A3E38723D50503BDE706948E42F55603019E528AE
-
-- Name: C=US, O=GeoTrust Inc., OU=(c) 2007 GeoTrust Inc. - For authorized use only, CN=GeoTrust Primary Certification Authority - G2  
-  Fingerprint: 8D:17:84:D5:37:F3:03:7D:EC:70:FE:57:8B:51:9A:99:E6:10:D7:B0  
-  Serial:  3CB2F4480A00E2FEEB243B5E603EC36B  
-  Expires:  Jan 18 23:59:59 2038 GMT  
-  https://crt.sh?q=5EDB7AC43B82A06A8761E8D7BE4979EBF2611F7DD79BF91C1C6B566A219ED766
-
-- Name: C=CH, O=SwissSign AG, CN=SwissSign Gold CA - G2  
-  Fingerprint: D8:C5:38:8A:B7:30:1B:1B:6E:D4:7A:E6:45:25:3A:6F:9F:1A:27:61  
-  Serial:  BB401C43F55E4FB0  
-  Expires:  Oct 25 08:30:35 2036 GMT  
-  https://crt.sh?q=62DD0BE9B9F50A163EA0F8E75C053B1ECA57EA55C8688F647C6881F2C8357B95
-
-- Name: C=US, O=Internet Security Research Group, CN=ISRG Root X2  
-  Fingerprint: BD:B1:B9:3C:D5:97:8D:45:C6:26:14:55:F8:DB:95:C7:5A:D1:53:AF  
-  Serial:  41D29DD172EAEEA780C12C6CE92F8752  
-  Expires:  Sep 17 16:00:00 2040 GMT  
-  https://crt.sh?q=69729B8E15A86EFC177A57AFB7171DFC64ADD28C2FCA8CF1507E34453CCB1470
-
-- Name: C=US, O=VeriSign, Inc., OU=VeriSign Trust Network, OU=(c) 2007 VeriSign, Inc. - For authorized use only, CN=VeriSign Class 3 Public Primary Certification Authority - G4  
-  Fingerprint: 22:D5:D8:DF:8F:02:31:D1:8D:F7:9D:B7:CF:8A:2D:64:C9:3F:6C:3A  
-  Serial:  2F80FE238C0E220F486712289187ACB3  
-  Expires:  Jan 18 23:59:59 2038 GMT  
-  https://crt.sh?q=69DDD7EA90BB57C93E135DC85EA6FCD5480B603239BDC454FC758B2A26CF7F79
-
-- Name: O=Entrust.net, OU=www.entrust.net/CPS_2048 incorp. by ref. (limits liab.), OU=(c) 1999 Entrust.net Limited, CN=Entrust.net Certification Authority (2048)  
-  Fingerprint: 50:30:06:09:1D:97:D4:F5:AE:39:F7:CB:E7:92:7D:7D:65:2D:34:31  
-  Serial:  3863DEF8  
-  Expires:  Jul 24 14:15:12 2029 GMT  
-  https://crt.sh?q=6DC47172E01CBCB0BF62580D895FE2B8AC9AD4F873801E0C10B9C837D21EB177
-
-- Name: C=US, O=AffirmTrust, CN=AffirmTrust Premium  
-  Fingerprint: D8:A6:33:2C:E0:03:6F:B1:85:F6:63:4F:7D:6A:06:65:26:32:28:27  
-  Serial:  6D8C1446B1A60AEE  
-  Expires:  Dec 31 14:10:36 2040 GMT  
-  https://crt.sh?q=70A73F7F376B60074248904534B11482D5BF0E698ECC498DF52577EBF2E93B9A
-
-- Name: C=US, O=Entrust, Inc., OU=www.entrust.net/CPS is incorporated by reference, OU=(c) 2006 Entrust, Inc., CN=Entrust Root Certification Authority  
-  Fingerprint: B3:1E:B1:B7:40:E3:6C:84:02:DA:DC:37:D4:4D:F5:D4:67:49:52:F9  
-  Serial:  456B5054  
-  Expires:  Nov 27 20:53:42 2026 GMT  
-  https://crt.sh?q=73C176434F1BC6D5ADF45B0E76E727287C8DE57616C1E6E6141A2B2CBC7D8E4C
-
-- Name: C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert High Assurance EV Root CA  
-  Fingerprint: 5F:B7:EE:06:33:E2:59:DB:AD:0C:4C:9A:E6:D3:8F:1A:61:C7:DC:25  
-  Serial:  02AC5C266A0B409B8F0B79F2AE462577  
-  Expires:  Nov 10 00:00:00 2031 GMT  
-  https://crt.sh?q=7431E5F4C3C1CE4690774F0B61E05440883BA9A01ED00BA6ABD7806ED3B118CF
-
-- Name: C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication Root R46  
-  Fingerprint: AD:98:F9:F3:E4:7D:75:3B:65:D4:82:B3:A4:52:17:BB:6E:F5:E4:38  
-  Serial:  758DFD8BAE7C0700FAA925A7E1C7AD14  
-  Expires:  Mar 21 23:59:59 2046 GMT  
-  https://crt.sh?q=7BB647A62AEEAC88BF257AA522D01FFEA395E0AB45C73F93F65654EC38F25A06
-
-- Name: C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Assured ID Root G2  
-  Fingerprint: A1:4B:48:D9:43:EE:0A:0E:40:90:4F:3C:E0:A4:C0:91:93:51:5D:3F  
-  Serial:  0B931C3AD63967EA6723BFC3AF9AF44B  
-  Expires:  Jan 15 12:00:00 2038 GMT  
-  https://crt.sh?q=7D05EBB682339F8C9451EE094EEBFEFA7953A114EDB2F44949452FAB7D2FC185
-
-- Name: C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Assured ID Root G3  
-  Fingerprint: F5:17:A2:4F:9A:48:C6:C9:F8:A2:00:26:9F:DC:0F:48:2C:AB:30:89  
-  Serial:  0BA15AFA1DDFA0B54944AFCD24A06CEC  
-  Expires:  Jan 15 12:00:00 2038 GMT  
-  https://crt.sh?q=7E37CB8B4C47090CAB36551BA6F45DB840680FBA166A952DB100717F43053FC2
-
-- Name: C=US, ST=Texas, L=Houston, O=SSL Corporation, CN=SSL.com Root Certification Authority RSA  
-  Fingerprint: B7:AB:33:08:D1:EA:44:77:BA:14:80:12:5A:6F:BD:A9:36:49:0C:BB  
-  Serial:  7B2C9BD316803299  
-  Expires:  Feb 12 17:39:39 2041 GMT  
-  https://crt.sh?q=85666A562EE0BE5CE925C1D8890A6F76A87EC16D4D7D5F29EA7419CF20123B69
-
-- Name: C=BM, O=QuoVadis Limited, CN=QuoVadis Root CA 2  
-  Fingerprint: CA:3A:FB:CF:12:40:36:4B:44:B2:16:20:88:80:48:39:19:93:7C:F7  
-  Serial:  0509  
-  Expires:  Nov 24 18:23:33 2031 GMT  
-  https://crt.sh?q=85A0DD7DD720ADB7FF05F83D542B209DC7FF4528F7D677B18389FEA5E5C49E86
-
-- Name: C=IN, OU=emSign PKI, O=eMudhra Technologies Limited, CN=emSign ECC Root CA - G3  
-  Fingerprint: 30:43:FA:4F:F2:57:DC:A0:C3:80:EE:2E:58:EA:78:B2:3F:E6:BB:C1  
-  Serial:  3CF607A968700EDA8B84  
-  Expires:  Feb 18 18:30:00 2043 GMT  
-  https://crt.sh?q=86A1ECBA089C4A8D3BBE2734C612BA341D813E043CF9E8A862CD5C57A36BBE6B
-
-- Name: C=BM, O=QuoVadis Limited, CN=QuoVadis Root CA 3 G3  
-  Fingerprint: 48:12:BD:92:3C:A8:C4:39:06:E7:30:6D:27:96:E6:A4:CF:22:2E:7D  
-  Serial:  2EF59B0228A7DB7AFFD5A3A9EEBD03A0CF126A1D  
-  Expires:  Jan 12 20:26:32 2042 GMT  
-  https://crt.sh?q=88EF81DE202EB018452E43F864725CEA5FBD1FC2D9D205730709C5D8B8690F46
-
-- Name: C=BM, O=QuoVadis Limited, CN=QuoVadis Root CA 1 G3  
-  Fingerprint: 1B:8E:EA:57:96:29:1A:C9:39:EA:B8:0A:81:1A:73:73:C0:93:79:67  
-  Serial:  78585F2EAD2C194BE3370735341328B596D46593  
-  Expires:  Jan 12 17:27:44 2042 GMT  
-  https://crt.sh?q=8A866FD1B276B57E578E921C65828A2BED58E9F2F288054134B7F1F4BFC9CC74
-
-- Name: C=US, O=Google Trust Services LLC, CN=GTS Root R2  
-  Fingerprint: 9A:44:49:76:32:DB:DE:FA:D0:BC:FB:5A:7B:17:BD:9E:56:09:24:94  
-  Serial:  0203E5AEC58D04251AAB1125AA  
-  Expires:  Jun 22 00:00:00 2036 GMT  
-  https://crt.sh?q=8D25CD97229DBF70356BDA4EB3CC734031E24CF00FAFCFD32DC76EB5841C7EA8
-
-- Name: C=US, O=thawte, Inc., OU=Certification Services Division, OU=(c) 2006 thawte, Inc. - For authorized use only, CN=thawte Primary Root CA  
-  Fingerprint: 91:C6:D6:EE:3E:8A:C8:63:84:E5:48:C2:99:29:5C:75:6C:81:7B:81  
-  Serial:  344ED55720D5EDEC49F42FCE37DB2B6D  
-  Expires:  Jul 16 23:59:59 2036 GMT  
-  https://crt.sh?q=8D722F81A9C113C0791DF136A2966DB26C950A971DB46B4199F4EA54B78BFB9F
-
-- Name: C=US, O=Amazon, CN=Amazon Root CA 1  
-  Fingerprint: 8D:A7:F9:65:EC:5E:FC:37:91:0F:1C:6E:59:FD:C1:CC:6A:6E:DE:16  
-  Serial:  066C9FCF99BF8C0A39E2F0788A43E696365BCA  
-  Expires:  Jan 17 00:00:00 2038 GMT  
-  https://crt.sh?q=8ECDE6884F3D87B1125BA31AC3FCB13D7016DE7F57CC904FE1CB97C6AE98196E
-
-- Name: C=US, O=SSL Corporation, CN=SSL.com TLS RSA Root CA 2022  
-  Fingerprint: EC:2C:83:40:72:AF:26:95:10:FF:0E:F2:03:EE:31:70:F6:78:9D:CA  
-  Serial:  6FBEDAAD73BD0840E28B4DBED4F75B91  
-  Expires:  Aug 19 16:34:21 2046 GMT  
-  https://crt.sh?q=8FAF7D2E2CB4709BB8E0B33666BF75A5DD45B5DE480F8EA8D4BFE6BEBC17F2ED
-
-- Name: C=BM, O=QuoVadis Limited, CN=QuoVadis Root CA 2 G3  
-  Fingerprint: 09:3C:61:F3:8B:8B:DC:7D:55:DF:75:38:02:05:00:E1:25:F5:C8:36  
-  Serial:  445734245B81899B35F2CEB82B3B5BA726F07528  
-  Expires:  Jan 12 18:59:32 2042 GMT  
-  https://crt.sh?q=8FE4FB0AF93A4D0D67DB0BEBB23E37C71BF325DCBCDD240EA04DAF58B47E1840
-
-- Name: C=DE, O=T-Systems Enterprise Services GmbH, OU=T-Systems Trust Center, CN=T-TeleSec GlobalRoot Class 2  
-  Fingerprint: 59:0D:2D:7D:88:4F:40:2E:61:7E:A5:62:32:17:65:CF:17:D8:94:E9  
-  Serial:  01  
-  Expires:  Oct  1 23:59:59 2033 GMT  
-  https://crt.sh?q=91E2F5788D5810EBA7BA58737DE1548A8ECACD014598BC0B143E041B17052552
-
-- Name: C=US, O=Internet Security Research Group, CN=ISRG Root X1  
-  Fingerprint: CA:BD:2A:79:A1:07:6A:31:F2:1D:25:36:35:CB:03:9D:43:29:A5:E8  
-  Serial:  8210CFB0D240E3594463E0BB63828B00  
-  Expires:  Jun  4 11:04:38 2035 GMT  
-  https://crt.sh?q=96BCEC06264976F37460779ACF28C5A7CFE8A3C0AAE11A8FFCEE05C0BDDF08C6
-
-- Name: C=US, O=VeriSign, Inc., OU=VeriSign Trust Network, OU=(c) 2006 VeriSign, Inc. - For authorized use only, CN=VeriSign Class 3 Public Primary Certification Authority - G5  
-  Fingerprint: 4E:B6:D5:78:49:9B:1C:CF:5F:58:1E:AD:56:BE:3D:9B:67:44:A5:E5  
-  Serial:  18DAD19E267DE8BB4A2158CDCC6B3B4A  
-  Expires:  Jul 16 23:59:59 2036 GMT  
-  https://crt.sh?q=9ACFAB7E43C8D880D06B262A94DEEEE4B4659989C3D0CAF19BAF6405E41AB7DF
-
-- Name: C=JP, O=SECOM Trust Systems CO.,LTD., OU=Security Communication EV RootCA1  
-  Fingerprint: FE:B8:C4:32:DC:F9:76:9A:CE:AE:3D:D8:90:8F:FD:28:86:65:64:7D  
-  Serial:  00  
-  Expires:  Jun  6 02:12:32 2037 GMT  
-  https://crt.sh?q=A22DBA681E97376E2D397D728AAE3A9B6296B9FDBA60BC2E11F647F2C675FB37
-
-- Name: C=US, O=thawte, Inc., OU=(c) 2007 thawte, Inc. - For authorized use only, CN=thawte Primary Root CA - G2  
-  Fingerprint: AA:DB:BC:22:23:8F:C4:01:A1:27:BB:38:DD:F4:1D:DB:08:9E:F0:12  
-  Serial:  35FC265CD9844FC93D263D579BAED756  
-  Expires:  Jan 18 23:59:59 2038 GMT  
-  https://crt.sh?q=A4310D50AF18A6447190372A86AFAF8B951FFB431D837F1E5688B45971ED1557
-
-- Name: C=US, O=GeoTrust Inc., OU=(c) 2008 GeoTrust Inc. - For authorized use only, CN=GeoTrust Primary Certification Authority - G3  
-  Fingerprint: 03:9E:ED:B8:0B:E7:A0:3C:69:53:89:3B:20:D2:D9:32:3A:4C:2A:FD  
-  Serial:  15AC6E9419B2794B41F627A9C3180F1F  
-  Expires:  Dec  1 23:59:59 2037 GMT  
-  https://crt.sh?q=B478B812250DF878635C2AA7EC7D155EAA625EE82916E2CD294361886CD1FBD4
-
-- Name: C=PL, O=Unizeto Technologies S.A., OU=Certum Certification Authority, CN=Certum Trusted Network CA 2  
-  Fingerprint: D3:DD:48:3E:2B:BF:4C:05:E8:AF:10:F5:FA:76:26:CF:D3:DC:30:92  
-  Serial:  21D6D04A4F250FC93237FCAA5E128DE9  
-  Expires:  Oct  6 08:39:56 2046 GMT  
-  https://crt.sh?q=B676F2EDDAE8775CD36CB0F63CD1D4603961F49E6265BA013A2F0307B6D0B804
-
-- Name: C=US, O=AffirmTrust, CN=AffirmTrust Premium ECC  
-  Fingerprint: B8:23:6B:00:2F:1D:16:86:53:01:55:6C:11:A4:37:CA:EB:FF:C3:BB  
-  Serial:  7497258AC73F7A54  
-  Expires:  Dec 31 14:20:24 2040 GMT  
-  https://crt.sh?q=BD71FDF6DA97E4CF62D1647ADD2581B07D79ADF8397EB4ECBA9C5E8488821423
-
-- Name: C=CH, O=SwissSign AG, CN=SwissSign Silver CA - G2  
-  Fingerprint: 9B:AA:E5:9F:56:EE:21:CB:43:5A:BE:25:93:DF:A7:F0:40:D1:1D:CB  
-  Serial:  4F1BD42F54BB2F4B  
-  Expires:  Oct 25 08:32:46 2036 GMT  
-  https://crt.sh?q=BE6C4DA2BBB9BA59B6F3939768374246C3C005993FA98F020D1DEDBED48A81D5
-
-- Name: OU=GlobalSign ECC Root CA - R4, O=GlobalSign, CN=GlobalSign  
-  Fingerprint: 69:69:56:2E:40:80:F4:24:A1:E7:19:9F:14:BA:F3:EE:58:AB:6A:BB  
-  Serial:  2A38A41C960A04DE42B228A50BE8349802  
-  Expires:  Jan 19 03:14:07 2038 GMT  
-  https://crt.sh?q=BEC94911C2955676DB6C0A550986D76E3BA005667C442C9762B4FBB773DE228C
-
-- Name: C=TW, O=TAIWAN-CA, OU=Root CA, CN=TWCA Root Certification Authority  
-  Fingerprint: CF:9E:87:6D:D3:EB:FC:42:26:97:A3:B5:A3:7A:A0:76:A9:06:23:48  
-  Serial:  01  
-  Expires:  Dec 31 15:59:59 2030 GMT  
-  https://crt.sh?q=BFD88FE1101C41AE3E801BF8BE56350EE9BAD1A6B9BD515EDC5C6D5B8711AC44
-
-- Name: C=US, O=SSL Corporation, CN=SSL.com TLS ECC Root CA 2022  
-  Fingerprint: 9F:5F:D9:1A:54:6D:F5:0C:71:F0:EE:7A:BD:17:49:98:84:73:E2:39  
-  Serial:  1403F5ABFB378B17405BE243B2A5D1C4  
-  Expires:  Aug 19 16:33:47 2046 GMT  
-  https://crt.sh?q=C32FFD9F46F936D16C3673990959434B9AD60AAFBB9E7CF33654F144CC1BA143
-
-- Name: C=US, O=The Go Daddy Group, Inc., OU=Go Daddy Class 2 Certification Authority  
-  Fingerprint: 27:96:BA:E6:3F:18:01:E2:77:26:1B:A0:D7:77:70:02:8F:20:EE:E4  
-  Serial:  00  
-  Expires:  Jun 29 17:06:20 2034 GMT  
-  https://crt.sh?q=C3846BF24B9E93CA64274C0EC67C1ECC5E024FFCACD2D74019350E81FE546AE4
-
-- Name: C=US, O=Microsoft Corporation, CN=Microsoft RSA Root Certificate Authority 2017  
-  Fingerprint: 73:A5:E6:4A:3B:FF:83:16:FF:0E:DC:CC:61:8A:90:6E:4E:AE:4D:74  
-  Serial:  1ED397095FD8B4B347701EAABE7F45B3  
-  Expires:  Jul 18 23:00:23 2042 GMT  
-  https://crt.sh?q=C741F70F4B2A8D88BF2E71C14122EF53EF10EBA0CFA5E64CFA20F418853073E0
-
-- Name: C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication Root E46  
-  Fingerprint: EC:8A:39:6C:40:F0:2E:BC:42:75:D4:9F:AB:1C:1A:5B:67:BE:D2:9A  
-  Serial:  42F2CCDA1B6937445F15FE752810B8F4  
-  Expires:  Mar 21 23:59:59 2046 GMT  
-  https://crt.sh?q=C90F26F0FB1B4018B22227519B5CA2B53E2CA5B3BE5CF18EFE1BEF47380C5383
-
-- Name: C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2  
-  Fingerprint: DF:3C:24:F9:BF:D6:66:76:1B:26:80:73:FE:06:D1:CC:8D:4F:82:A4  
-  Serial:  033AF1E6A711A9A0BB2864B11D09FAE5  
-  Expires:  Jan 15 12:00:00 2038 GMT  
-  https://crt.sh?q=CB3CCBB76031E5E0138F8DD39A23F9DE47FFC35E43C1144CEA27D46A5AB1CB5F
-
-- Name: OU=GlobalSign Root CA - R3, O=GlobalSign, CN=GlobalSign  
-  Fingerprint: D6:9B:56:11:48:F0:1C:77:C5:45:78:C1:09:26:DF:5B:85:69:76:AD  
-  Serial:  04000000000121585308A2  
-  Expires:  Mar 18 10:00:00 2029 GMT  
-  https://crt.sh?q=CBB522D7B7F127AD6A0113865BDF1CD4102E7D0759AF635A7CF4720DC963C53B
-
-- Name: C=BE, O=GlobalSign nv-sa, CN=GlobalSign Root E46  
-  Fingerprint: 39:B4:6C:D5:FE:80:06:EB:E2:2F:4A:BB:08:33:A0:AF:DB:B9:DD:84  
-  Serial:  11D2BBBA336ED4BCE62468C50D841D98E843  
-  Expires:  Mar 20 00:00:00 2046 GMT  
-  https://crt.sh?q=CBB9C44D84B8043E1050EA31A69F514955D7BFD2E2C6B49301019AD61D9F5058
-
-- Name: C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services  
-  Fingerprint: D1:EB:23:A4:6D:17:D6:8F:D9:25:64:C2:F1:F1:60:17:64:D8:E3:49  
-  Serial:  01  
-  Expires:  Dec 31 23:59:59 2028 GMT  
-  https://crt.sh?q=D7A7A0FB5D7E2731D771E9484EBCDEF71D5F0C3E0A2948782BC83EE0EA699EF4
-
-- Name: C=PL, O=Unizeto Sp. z o.o., CN=Certum CA  
-  Fingerprint: 62:52:DC:40:F7:11:43:A2:2F:DE:9E:F7:34:8E:06:42:51:B1:81:18  
-  Serial:  010020  
-  Expires:  Jun 11 10:46:39 2027 GMT  
-  https://crt.sh?q=D8E0FEBC1DB2E38D00940F37D27D41344D993E734B99D5656D9778D4D8143624
-
-- Name: C=US, O=Google Trust Services LLC, CN=GTS Root R1  
-  Fingerprint: E5:8C:1C:C4:91:3B:38:63:4B:E9:10:6E:E3:AD:8E:6B:9D:D9:81:4A  
-  Serial:  0203E5936F31B01349886BA217  
-  Expires:  Jun 22 00:00:00 2036 GMT  
-  https://crt.sh?q=D947432ABDE7B7FA90FC2E6B59101B1280E0E1C7E4E40FA3C6887FFF57A7F4CF
-
-- Name: C=US, O=Entrust, Inc., OU=See www.entrust.net/legal-terms, OU=(c) 2015 Entrust, Inc. - for authorized use only, CN=Entrust Root Certification Authority - G4  
-  Fingerprint: 14:88:4E:86:26:37:B0:26:AF:59:62:5C:40:77:EC:35:29:BA:96:01  
-  Serial:  D9B5437FAFA9390F000000005565AD58  
-  Expires:  Dec 27 11:41:16 2037 GMT  
-  https://crt.sh?q=DB3517D1F6732A2D5AB97C533EC70779EE3270A62FB4AC4238372460E6F01E88
-
-- Name: C=US, O=Amazon, CN=Amazon Root CA 4  
-  Fingerprint: F6:10:84:07:D6:F8:BB:67:98:0C:C2:E2:44:C2:EB:AE:1C:EF:63:BE  
-  Serial:  066C9FD7C1BB104C2943E5717B7B2CC81AC10E  
-  Expires:  May 26 00:00:00 2040 GMT  
-  https://crt.sh?q=E35D28419ED02025CFA69038CD623962458DA5C695FBDEA3C22B0BFB25897092
-
-- Name: C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority  
-  Fingerprint: 2B:8F:1B:57:33:0D:BB:A2:D0:7A:6C:51:F7:0E:E9:0D:DA:B9:AD:8E  
-  Serial:  01FD6D30FCA3CA51A81BBC640E35032D  
-  Expires:  Jan 18 23:59:59 2038 GMT  
-  https://crt.sh?q=E793C9B02FD8AA13E21C31228ACCB08119643B749C898964B1746D46C3D4CBD2
-
-- Name: C=US, O=VeriSign, Inc., OU=VeriSign Trust Network, OU=(c) 1999 VeriSign, Inc. - For authorized use only, CN=VeriSign Class 3 Public Primary Certification Authority - G3  
-  Fingerprint: 13:2D:0D:45:53:4B:69:97:CD:B2:D5:C3:39:E2:55:76:60:9B:5C:C6  
-  Serial:  9B7E0649A33E62B9D5EE90487129EF57  
-  Expires:  Jul 16 23:59:59 2036 GMT  
-  https://crt.sh?q=EB04CF5EB1F39AFA762F2BB120F296CBA520C1B97DB1589565B81CB9A17B7244
-
-- Name: C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA  
-  Fingerprint: B1:BC:96:8B:D4:F4:9D:62:2A:A8:9A:81:F2:15:01:52:A4:1D:82:9C  
-  Serial:  040000000001154B5AC394  
-  Expires:  Jan 28 12:00:00 2028 GMT  
-  https://crt.sh?q=EBD41040E4BB3EC742C9E381D31EF2A41A48B6685C96E7CEF3C1DF6CD4331C99
-
-- Name: C=DE, O=D-Trust GmbH, CN=D-TRUST Root Class 3 CA 2 EV 2009  
-  Fingerprint: 96:C9:1B:0B:95:B4:10:98:42:FA:D0:D8:22:79:FE:60:FA:B9:16:83  
-  Serial:  0983F4  
-  Expires:  Nov  5 08:50:46 2029 GMT  
-  https://crt.sh?q=EEC5496B988CE98625B934092EEC2908BED0B0F316C2D4730C84EAF1F3D34881
-
-- Name: C=US, O=SecureTrust Corporation, CN=SecureTrust CA  
-  Fingerprint: 87:82:C6:C3:04:35:3B:CF:D2:96:92:D2:59:3E:7D:44:D9:34:FF:11  
-  Serial:  0CF08E5C0816A5AD427FF0EB271859D0  
-  Expires:  Dec 31 19:40:55 2029 GMT  
-  https://crt.sh?q=F1C1B50AE5A20DD8030EC9F6BC24823DD367B5255759B4E71B61FCE9F7375D73
+# Akamai's Certificate Store"
+
+There are 91 entries. Links below point to the full certificate
+on [https://cert.sh]
+
+- Name: C=BE, O=GlobalSign nv-sa, CN=GlobalSign Root E46
+  Fingerprint 39:B4:6C:D5:FE:80:06:EB:E2:2F:4A:BB:08:33:A0:AF:DB:B9:DD:84
+  Serial: 11D2BBBA336ED4BCE62468C50D841D98E843
+  Expires: Mar 20 00:00:00 2046 GMT
+
+- Name: C=BE, O=GlobalSign nv-sa, CN=GlobalSign Root R46
+  Fingerprint 53:A2:B0:4B:CA:6B:D6:45:E6:39:8A:8E:C4:0D:D2:BF:77:C3:A2:90
+  Serial: 11D2BBB9D723189E405F0A9D2DD0DF2567D1
+  Expires: Mar 20 00:00:00 2046 GMT
+
+- Name: C=BE, O=GlobalSign nv-sa, OU=Root CA, CN=GlobalSign Root CA
+  Fingerprint B1:BC:96:8B:D4:F4:9D:62:2A:A8:9A:81:F2:15:01:52:A4:1D:82:9C
+  Serial: 040000000001154B5AC394
+  Expires: Jan 28 12:00:00 2028 GMT
+
+- Name: C=BM, O=QuoVadis Limited, CN=QuoVadis Root CA 1 G3
+  Fingerprint 1B:8E:EA:57:96:29:1A:C9:39:EA:B8:0A:81:1A:73:73:C0:93:79:67
+  Serial: 78585F2EAD2C194BE3370735341328B596D46593
+  Expires: Jan 12 17:27:44 2042 GMT
+
+- Name: C=BM, O=QuoVadis Limited, CN=QuoVadis Root CA 2
+  Fingerprint CA:3A:FB:CF:12:40:36:4B:44:B2:16:20:88:80:48:39:19:93:7C:F7
+  Serial: 0509
+  Expires: Nov 24 18:23:33 2031 GMT
+
+- Name: C=BM, O=QuoVadis Limited, CN=QuoVadis Root CA 2 G3
+  Fingerprint 09:3C:61:F3:8B:8B:DC:7D:55:DF:75:38:02:05:00:E1:25:F5:C8:36
+  Serial: 445734245B81899B35F2CEB82B3B5BA726F07528
+  Expires: Jan 12 18:59:32 2042 GMT
+
+- Name: C=BM, O=QuoVadis Limited, CN=QuoVadis Root CA 3
+  Fingerprint 1F:49:14:F7:D8:74:95:1D:DD:AE:02:C0:BE:FD:3A:2D:82:75:51:85
+  Serial: 05C6
+  Expires: Nov 24 19:06:44 2031 GMT
+
+- Name: C=BM, O=QuoVadis Limited, CN=QuoVadis Root CA 3 G3
+  Fingerprint 48:12:BD:92:3C:A8:C4:39:06:E7:30:6D:27:96:E6:A4:CF:22:2E:7D
+  Serial: 2EF59B0228A7DB7AFFD5A3A9EEBD03A0CF126A1D
+  Expires: Jan 12 20:26:32 2042 GMT
+
+- Name: C=CH, O=SwissSign AG, CN=SwissSign Gold CA - G2
+  Fingerprint D8:C5:38:8A:B7:30:1B:1B:6E:D4:7A:E6:45:25:3A:6F:9F:1A:27:61
+  Serial: BB401C43F55E4FB0
+  Expires: Oct 25 08:30:35 2036 GMT
+
+- Name: C=CH, O=SwissSign AG, CN=SwissSign Silver CA - G2
+  Fingerprint 9B:AA:E5:9F:56:EE:21:CB:43:5A:BE:25:93:DF:A7:F0:40:D1:1D:CB
+  Serial: 4F1BD42F54BB2F4B
+  Expires: Oct 25 08:32:46 2036 GMT
+
+- Name: C=DE, O=D-Trust GmbH, CN=D-TRUST Root Class 3 CA 2 2009
+  Fingerprint 58:E8:AB:B0:36:15:33:FB:80:F7:9B:1B:6D:29:D3:FF:8D:5F:00:F0
+  Serial: 0983F3
+  Expires: Nov  5 08:35:58 2029 GMT
+
+- Name: C=DE, O=D-Trust GmbH, CN=D-TRUST Root Class 3 CA 2 EV 2009
+  Fingerprint 96:C9:1B:0B:95:B4:10:98:42:FA:D0:D8:22:79:FE:60:FA:B9:16:83
+  Serial: 0983F4
+  Expires: Nov  5 08:50:46 2029 GMT
+
+- Name: C=DE, O=T-Systems Enterprise Services GmbH, OU=T-Systems Trust Center, CN=T-TeleSec GlobalRoot Class 2
+  Fingerprint 59:0D:2D:7D:88:4F:40:2E:61:7E:A5:62:32:17:65:CF:17:D8:94:E9
+  Serial: 01
+  Expires: Oct  1 23:59:59 2033 GMT
+
+- Name: C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication Root E46
+  Fingerprint EC:8A:39:6C:40:F0:2E:BC:42:75:D4:9F:AB:1C:1A:5B:67:BE:D2:9A
+  Serial: 42F2CCDA1B6937445F15FE752810B8F4
+  Expires: Mar 21 23:59:59 2046 GMT
+
+- Name: C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication Root R46
+  Fingerprint AD:98:F9:F3:E4:7D:75:3B:65:D4:82:B3:A4:52:17:BB:6E:F5:E4:38
+  Serial: 758DFD8BAE7C0700FAA925A7E1C7AD14
+  Expires: Mar 21 23:59:59 2046 GMT
+
+- Name: C=GB, ST=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO Certification Authority
+  Fingerprint EE:86:93:87:FF:FD:83:49:AB:5A:D1:43:22:58:87:89:A4:57:B0:12
+  Serial: 20A4C47FDDDFE1C75363071388776012
+  Expires: Dec 31 23:59:59 2030 GMT
+
+- Name: C=GB, ST=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO ECC Certification Authority
+  Fingerprint 9F:74:4E:9F:2B:4D:BA:EC:0F:31:2C:50:B6:56:3B:8E:2D:93:C3:11
+  Serial: 1F47AFAA62007050544C019E9B63992A
+  Expires: Jan 18 23:59:59 2038 GMT
+
+- Name: C=GB, ST=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO RSA Certification Authority
+  Fingerprint AF:E5:D2:44:A8:D1:19:42:30:FF:47:9F:E2:F8:97:BB:CD:7A:8C:B4
+  Serial: 4CAAF9CADB636FE01FF74ED85B03869D
+  Expires: Jan 18 23:59:59 2038 GMT
+
+- Name: C=GB, ST=Greater Manchester, L=Salford, O=Comodo CA Limited, CN=AAA Certificate Services
+  Fingerprint D1:EB:23:A4:6D:17:D6:8F:D9:25:64:C2:F1:F1:60:17:64:D8:E3:49
+  Serial: 01
+  Expires: Dec 31 23:59:59 2028 GMT
+
+- Name: C=IE, O=Baltimore, OU=CyberTrust, CN=Baltimore CyberTrust Root
+  Fingerprint D4:DE:20:D0:5E:66:FC:53:FE:1A:50:88:2C:78:DB:28:52:CA:E4:74
+  Serial: 020000B9
+  Expires: May 12 23:59:00 2025 GMT
+
+- Name: C=IN, OU=emSign PKI, O=eMudhra Technologies Limited, CN=emSign ECC Root CA - G3
+  Fingerprint 30:43:FA:4F:F2:57:DC:A0:C3:80:EE:2E:58:EA:78:B2:3F:E6:BB:C1
+  Serial: 3CF607A968700EDA8B84
+  Expires: Feb 18 18:30:00 2043 GMT
+
+- Name: C=IN, OU=emSign PKI, O=eMudhra Technologies Limited, CN=emSign Root CA - G1
+  Fingerprint 8A:C7:AD:8F:73:AC:4E:C1:B5:75:4D:A5:40:F4:FC:CF:7C:B5:8E:8C
+  Serial: 31F5E4620C6C58EDD6D8
+  Expires: Feb 18 18:30:00 2043 GMT
+
+- Name: C=IT, L=Milan, O=Actalis S.p.A./03358520967, CN=Actalis Authentication Root CA
+  Fingerprint F3:73:B3:87:06:5A:28:84:8A:F2:F3:4A:CE:19:2B:DD:C7:8E:9C:AC
+  Serial: 570A119742C4E3CC
+  Expires: Sep 22 11:22:02 2030 GMT
+
+- Name: C=JP, O=SECOM Trust Systems CO.,LTD., OU=Security Communication EV RootCA1
+  Fingerprint FE:B8:C4:32:DC:F9:76:9A:CE:AE:3D:D8:90:8F:FD:28:86:65:64:7D
+  Serial: 00
+  Expires: Jun  6 02:12:32 2037 GMT
+
+- Name: C=JP, O=SECOM Trust Systems CO.,LTD., OU=Security Communication RootCA2
+  Fingerprint 5F:3B:8C:F2:F8:10:B3:7D:78:B4:CE:EC:19:19:C3:73:34:B9:C7:74
+  Serial: 00
+  Expires: May 29 05:00:39 2029 GMT
+
+- Name: C=PL, O=Unizeto Sp. z o.o., CN=Certum CA
+  Fingerprint 62:52:DC:40:F7:11:43:A2:2F:DE:9E:F7:34:8E:06:42:51:B1:81:18
+  Serial: 010020
+  Expires: Jun 11 10:46:39 2027 GMT
+
+- Name: C=PL, O=Unizeto Technologies S.A., OU=Certum Certification Authority, CN=Certum Trusted Network CA
+  Fingerprint 07:E0:32:E0:20:B7:2C:3F:19:2F:06:28:A2:59:3A:19:A7:0F:06:9E
+  Serial: 0444C0
+  Expires: Dec 31 12:07:37 2029 GMT
+
+- Name: C=PL, O=Unizeto Technologies S.A., OU=Certum Certification Authority, CN=Certum Trusted Network CA 2
+  Fingerprint D3:DD:48:3E:2B:BF:4C:05:E8:AF:10:F5:FA:76:26:CF:D3:DC:30:92
+  Serial: 21D6D04A4F250FC93237FCAA5E128DE9
+  Expires: Oct  6 08:39:56 2046 GMT
+
+- Name: C=TW, O=TAIWAN-CA, OU=Root CA, CN=TWCA Global Root CA
+  Fingerprint 9C:BB:48:53:F6:A4:F6:D3:52:A4:E8:32:52:55:60:13:F5:AD:AF:65
+  Serial: 0CBE
+  Expires: Dec 31 15:59:59 2030 GMT
+
+- Name: C=TW, O=TAIWAN-CA, OU=Root CA, CN=TWCA Root Certification Authority
+  Fingerprint CF:9E:87:6D:D3:EB:FC:42:26:97:A3:B5:A3:7A:A0:76:A9:06:23:48
+  Serial: 01
+  Expires: Dec 31 15:59:59 2030 GMT
+
+- Name: C=US, O=AffirmTrust, CN=AffirmTrust Commercial
+  Fingerprint F9:B5:B6:32:45:5F:9C:BE:EC:57:5F:80:DC:E9:6E:2C:C7:B2:78:B7
+  Serial: 7777062726A9B17C
+  Expires: Dec 31 14:06:06 2030 GMT
+
+- Name: C=US, O=AffirmTrust, CN=AffirmTrust Networking
+  Fingerprint 29:36:21:02:8B:20:ED:02:F5:66:C5:32:D1:D6:ED:90:9F:45:00:2F
+  Serial: 7C4F04391CD4992D
+  Expires: Dec 31 14:08:24 2030 GMT
+
+- Name: C=US, O=AffirmTrust, CN=AffirmTrust Premium
+  Fingerprint D8:A6:33:2C:E0:03:6F:B1:85:F6:63:4F:7D:6A:06:65:26:32:28:27
+  Serial: 6D8C1446B1A60AEE
+  Expires: Dec 31 14:10:36 2040 GMT
+
+- Name: C=US, O=AffirmTrust, CN=AffirmTrust Premium ECC
+  Fingerprint B8:23:6B:00:2F:1D:16:86:53:01:55:6C:11:A4:37:CA:EB:FF:C3:BB
+  Serial: 7497258AC73F7A54
+  Expires: Dec 31 14:20:24 2040 GMT
+
+- Name: C=US, O=Amazon, CN=Amazon Root CA 1
+  Fingerprint 8D:A7:F9:65:EC:5E:FC:37:91:0F:1C:6E:59:FD:C1:CC:6A:6E:DE:16
+  Serial: 066C9FCF99BF8C0A39E2F0788A43E696365BCA
+  Expires: Jan 17 00:00:00 2038 GMT
+
+- Name: C=US, O=Amazon, CN=Amazon Root CA 2
+  Fingerprint 5A:8C:EF:45:D7:A6:98:59:76:7A:8C:8B:44:96:B5:78:CF:47:4B:1A
+  Serial: 066C9FD29635869F0A0FE58678F85B26BB8A37
+  Expires: May 26 00:00:00 2040 GMT
+
+- Name: C=US, O=Amazon, CN=Amazon Root CA 3
+  Fingerprint 0D:44:DD:8C:3C:8C:1A:1A:58:75:64:81:E9:0F:2E:2A:FF:B3:D2:6E
+  Serial: 066C9FD5749736663F3B0B9AD9E89E7603F24A
+  Expires: May 26 00:00:00 2040 GMT
+
+- Name: C=US, O=Amazon, CN=Amazon Root CA 4
+  Fingerprint F6:10:84:07:D6:F8:BB:67:98:0C:C2:E2:44:C2:EB:AE:1C:EF:63:BE
+  Serial: 066C9FD7C1BB104C2943E5717B7B2CC81AC10E
+  Expires: May 26 00:00:00 2040 GMT
+
+- Name: C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Assured ID Root CA
+  Fingerprint 05:63:B8:63:0D:62:D7:5A:BB:C8:AB:1E:4B:DF:B5:A8:99:B2:4D:43
+  Serial: 0CE7E0E517D846FE8FE560FC1BF03039
+  Expires: Nov 10 00:00:00 2031 GMT
+
+- Name: C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Assured ID Root G2
+  Fingerprint A1:4B:48:D9:43:EE:0A:0E:40:90:4F:3C:E0:A4:C0:91:93:51:5D:3F
+  Serial: 0B931C3AD63967EA6723BFC3AF9AF44B
+  Expires: Jan 15 12:00:00 2038 GMT
+
+- Name: C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Assured ID Root G3
+  Fingerprint F5:17:A2:4F:9A:48:C6:C9:F8:A2:00:26:9F:DC:0F:48:2C:AB:30:89
+  Serial: 0BA15AFA1DDFA0B54944AFCD24A06CEC
+  Expires: Jan 15 12:00:00 2038 GMT
+
+- Name: C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root CA
+  Fingerprint A8:98:5D:3A:65:E5:E5:C4:B2:D7:D6:6D:40:C6:DD:2F:B1:9C:54:36
+  Serial: 083BE056904246B1A1756AC95991C74A
+  Expires: Nov 10 00:00:00 2031 GMT
+
+- Name: C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G2
+  Fingerprint DF:3C:24:F9:BF:D6:66:76:1B:26:80:73:FE:06:D1:CC:8D:4F:82:A4
+  Serial: 033AF1E6A711A9A0BB2864B11D09FAE5
+  Expires: Jan 15 12:00:00 2038 GMT
+
+- Name: C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Global Root G3
+  Fingerprint 7E:04:DE:89:6A:3E:66:6D:00:E6:87:D3:3F:FA:D9:3B:E8:3D:34:9E
+  Serial: 055556BCF25EA43535C3A40FD5AB4572
+  Expires: Jan 15 12:00:00 2038 GMT
+
+- Name: C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert High Assurance EV Root CA
+  Fingerprint 5F:B7:EE:06:33:E2:59:DB:AD:0C:4C:9A:E6:D3:8F:1A:61:C7:DC:25
+  Serial: 02AC5C266A0B409B8F0B79F2AE462577
+  Expires: Nov 10 00:00:00 2031 GMT
+
+- Name: C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Trusted Root G4
+  Fingerprint DD:FB:16:CD:49:31:C9:73:A2:03:7D:3F:C8:3A:4D:7D:77:5D:05:E4
+  Serial: 059B1B579E8E2132E23907BDA777755C
+  Expires: Jan 15 12:00:00 2038 GMT
+
+- Name: C=US, O=DigiCert, Inc., CN=DigiCert TLS ECC P384 Root G5
+  Fingerprint 17:F3:DE:5E:9F:0F:19:E9:8E:F6:1F:32:26:6E:20:C4:07:AE:30:EE
+  Serial: 09E09365ACF7D9C8B93E1C0B042A2EF3
+  Expires: Jan 14 23:59:59 2046 GMT
+
+- Name: C=US, O=DigiCert, Inc., CN=DigiCert TLS RSA4096 Root G5
+  Fingerprint A7:88:49:DC:5D:7C:75:8C:8C:DE:39:98:56:B3:AA:D0:B2:A5:71:35
+  Serial: 08F9B478A8FA7EDA6A333789DE7CCF8A
+  Expires: Jan 14 23:59:59 2046 GMT
+
+- Name: C=US, O=Entrust, Inc., OU=See www.entrust.net/legal-terms, OU=(c) 2009 Entrust, Inc. - for authorized use only, CN=Entrust Root Certification Authority - G2
+  Fingerprint 8C:F4:27:FD:79:0C:3A:D1:66:06:8D:E8:1E:57:EF:BB:93:22:72:D4
+  Serial: 4A538C28
+  Expires: Dec  7 17:55:54 2030 GMT
+
+- Name: C=US, O=Entrust, Inc., OU=See www.entrust.net/legal-terms, OU=(c) 2012 Entrust, Inc. - for authorized use only, CN=Entrust Root Certification Authority - EC1
+  Fingerprint 20:D8:06:40:DF:9B:25:F5:12:25:3A:11:EA:F7:59:8A:EB:14:B5:47
+  Serial: A68B79290000000050D091F9
+  Expires: Dec 18 15:55:36 2037 GMT
+
+- Name: C=US, O=Entrust, Inc., OU=See www.entrust.net/legal-terms, OU=(c) 2015 Entrust, Inc. - for authorized use only, CN=Entrust Root Certification Authority - G4
+  Fingerprint 14:88:4E:86:26:37:B0:26:AF:59:62:5C:40:77:EC:35:29:BA:96:01
+  Serial: D9B5437FAFA9390F000000005565AD58
+  Expires: Dec 27 11:41:16 2037 GMT
+
+- Name: C=US, O=Entrust, Inc., OU=www.entrust.net/CPS is incorporated by reference, OU=(c) 2006 Entrust, Inc., CN=Entrust Root Certification Authority
+  Fingerprint B3:1E:B1:B7:40:E3:6C:84:02:DA:DC:37:D4:4D:F5:D4:67:49:52:F9
+  Serial: 456B5054
+  Expires: Nov 27 20:53:42 2026 GMT
+
+- Name: C=US, O=GeoTrust Inc., CN=GeoTrust Primary Certification Authority
+  Fingerprint 32:3C:11:8E:1B:F7:B8:B6:52:54:E2:E2:10:0D:D6:02:90:37:F0:96
+  Serial: 18ACB56AFD69B6153A636CAFDAFAC4A1
+  Expires: Jul 16 23:59:59 2036 GMT
+
+- Name: C=US, O=GeoTrust Inc., OU=(c) 2007 GeoTrust Inc. - For authorized use only, CN=GeoTrust Primary Certification Authority - G2
+  Fingerprint 8D:17:84:D5:37:F3:03:7D:EC:70:FE:57:8B:51:9A:99:E6:10:D7:B0
+  Serial: 3CB2F4480A00E2FEEB243B5E603EC36B
+  Expires: Jan 18 23:59:59 2038 GMT
+
+- Name: C=US, O=GeoTrust Inc., OU=(c) 2008 GeoTrust Inc. - For authorized use only, CN=GeoTrust Primary Certification Authority - G3
+  Fingerprint 03:9E:ED:B8:0B:E7:A0:3C:69:53:89:3B:20:D2:D9:32:3A:4C:2A:FD
+  Serial: 15AC6E9419B2794B41F627A9C3180F1F
+  Expires: Dec  1 23:59:59 2037 GMT
+
+- Name: C=US, O=Google Trust Services LLC, CN=GTS Root R1
+  Fingerprint E5:8C:1C:C4:91:3B:38:63:4B:E9:10:6E:E3:AD:8E:6B:9D:D9:81:4A
+  Serial: 0203E5936F31B01349886BA217
+  Expires: Jun 22 00:00:00 2036 GMT
+
+- Name: C=US, O=Google Trust Services LLC, CN=GTS Root R2
+  Fingerprint D2:73:96:2A:2A:5E:39:9F:73:3F:E1:C7:1E:64:3F:03:38:34:FC:4D
+  Serial: 6E47A9C65AB3E720C5309A3F6852F26F
+  Expires: Jun 22 00:00:00 2036 GMT
+
+- Name: C=US, O=Google Trust Services LLC, CN=GTS Root R3
+  Fingerprint ED:E5:71:80:2B:C8:92:B9:5B:83:3C:D2:32:68:3F:09:CD:A0:1E:46
+  Serial: 0203E5B882EB20F825276D3D66
+  Expires: Jun 22 00:00:00 2036 GMT
+
+- Name: C=US, O=Google Trust Services LLC, CN=GTS Root R4
+  Fingerprint 2A:1D:60:27:D9:4A:B1:0A:1C:4D:91:5C:CD:33:A0:CB:3E:2D:54:CB
+  Serial: 6E47A9C88B94B6E8BB3B2AD8A2B2C199
+  Expires: Jun 22 00:00:00 2036 GMT
+
+- Name: C=US, O=IdenTrust, CN=IdenTrust Commercial Root CA 1
+  Fingerprint DF:71:7E:AA:4A:D9:4E:C9:55:84:99:60:2D:48:DE:5F:BC:F0:3A:25
+  Serial: 0A0142800000014523C844B500000002
+  Expires: Jan 16 18:12:23 2034 GMT
+
+- Name: C=US, O=IdenTrust, CN=IdenTrust Public Sector Root CA 1
+  Fingerprint BA:29:41:60:77:98:3F:F4:F3:EF:F2:31:05:3B:2E:EA:6D:4D:45:FD
+  Serial: 0A0142800000014523CF467C00000002
+  Expires: Jan 16 17:53:32 2034 GMT
+
+- Name: C=US, O=Internet Security Research Group, CN=ISRG Root X1
+  Fingerprint CA:BD:2A:79:A1:07:6A:31:F2:1D:25:36:35:CB:03:9D:43:29:A5:E8
+  Serial: 8210CFB0D240E3594463E0BB63828B00
+  Expires: Jun  4 11:04:38 2035 GMT
+
+- Name: C=US, O=Internet Security Research Group, CN=ISRG Root X2
+  Fingerprint BD:B1:B9:3C:D5:97:8D:45:C6:26:14:55:F8:DB:95:C7:5A:D1:53:AF
+  Serial: 41D29DD172EAEEA780C12C6CE92F8752
+  Expires: Sep 17 16:00:00 2040 GMT
+
+- Name: C=US, O=Microsoft Corporation, CN=Microsoft ECC Root Certificate Authority 2017
+  Fingerprint 99:9A:64:C3:7F:F4:7D:9F:AB:95:F1:47:69:89:14:60:EE:C4:C3:C5
+  Serial: 66F23DAF87DE8BB14AEA0C573101C2EC
+  Expires: Jul 18 23:16:04 2042 GMT
+
+- Name: C=US, O=Microsoft Corporation, CN=Microsoft RSA Root Certificate Authority 2017
+  Fingerprint 73:A5:E6:4A:3B:FF:83:16:FF:0E:DC:CC:61:8A:90:6E:4E:AE:4D:74
+  Serial: 1ED397095FD8B4B347701EAABE7F45B3
+  Expires: Jul 18 23:00:23 2042 GMT
+
+- Name: C=US, O=SSL Corporation, CN=SSL.com TLS ECC Root CA 2022
+  Fingerprint 9F:5F:D9:1A:54:6D:F5:0C:71:F0:EE:7A:BD:17:49:98:84:73:E2:39
+  Serial: 1403F5ABFB378B17405BE243B2A5D1C4
+  Expires: Aug 19 16:33:47 2046 GMT
+
+- Name: C=US, O=SSL Corporation, CN=SSL.com TLS RSA Root CA 2022
+  Fingerprint EC:2C:83:40:72:AF:26:95:10:FF:0E:F2:03:EE:31:70:F6:78:9D:CA
+  Serial: 6FBEDAAD73BD0840E28B4DBED4F75B91
+  Expires: Aug 19 16:34:21 2046 GMT
+
+- Name: C=US, O=SecureTrust Corporation, CN=SecureTrust CA
+  Fingerprint 87:82:C6:C3:04:35:3B:CF:D2:96:92:D2:59:3E:7D:44:D9:34:FF:11
+  Serial: 0CF08E5C0816A5AD427FF0EB271859D0
+  Expires: Dec 31 19:40:55 2029 GMT
+
+- Name: C=US, O=Starfield Technologies, Inc., OU=Starfield Class 2 Certification Authority
+  Fingerprint AD:7E:1C:28:B0:64:EF:8F:60:03:40:20:14:C3:D0:E3:37:0E:B5:8A
+  Serial: 00
+  Expires: Jun 29 17:39:16 2034 GMT
+
+- Name: C=US, O=The Go Daddy Group, Inc., OU=Go Daddy Class 2 Certification Authority
+  Fingerprint 27:96:BA:E6:3F:18:01:E2:77:26:1B:A0:D7:77:70:02:8F:20:EE:E4
+  Serial: 00
+  Expires: Jun 29 17:06:20 2034 GMT
+
+- Name: C=US, O=VeriSign, Inc., OU=VeriSign Trust Network, OU=(c) 1999 VeriSign, Inc. - For authorized use only, CN=VeriSign Class 3 Public Primary Certification Authority - G3
+  Fingerprint 13:2D:0D:45:53:4B:69:97:CD:B2:D5:C3:39:E2:55:76:60:9B:5C:C6
+  Serial: 9B7E0649A33E62B9D5EE90487129EF57
+  Expires: Jul 16 23:59:59 2036 GMT
+
+- Name: C=US, O=VeriSign, Inc., OU=VeriSign Trust Network, OU=(c) 2006 VeriSign, Inc. - For authorized use only, CN=VeriSign Class 3 Public Primary Certification Authority - G5
+  Fingerprint 4E:B6:D5:78:49:9B:1C:CF:5F:58:1E:AD:56:BE:3D:9B:67:44:A5:E5
+  Serial: 18DAD19E267DE8BB4A2158CDCC6B3B4A
+  Expires: Jul 16 23:59:59 2036 GMT
+
+- Name: C=US, O=VeriSign, Inc., OU=VeriSign Trust Network, OU=(c) 2007 VeriSign, Inc. - For authorized use only, CN=VeriSign Class 3 Public Primary Certification Authority - G4
+  Fingerprint 22:D5:D8:DF:8F:02:31:D1:8D:F7:9D:B7:CF:8A:2D:64:C9:3F:6C:3A
+  Serial: 2F80FE238C0E220F486712289187ACB3
+  Expires: Jan 18 23:59:59 2038 GMT
+
+- Name: C=US, O=VeriSign, Inc., OU=VeriSign Trust Network, OU=(c) 2008 VeriSign, Inc. - For authorized use only, CN=VeriSign Universal Root Certification Authority
+  Fingerprint 36:79:CA:35:66:87:72:30:4D:30:A5:FB:87:3B:0F:A7:7B:B7:0D:54
+  Serial: 401AC46421B31321030EBBE4121AC51D
+  Expires: Dec  1 23:59:59 2037 GMT
+
+- Name: C=US, O=thawte, Inc., OU=(c) 2007 thawte, Inc. - For authorized use only, CN=thawte Primary Root CA - G2
+  Fingerprint AA:DB:BC:22:23:8F:C4:01:A1:27:BB:38:DD:F4:1D:DB:08:9E:F0:12
+  Serial: 35FC265CD9844FC93D263D579BAED756
+  Expires: Jan 18 23:59:59 2038 GMT
+
+- Name: C=US, O=thawte, Inc., OU=Certification Services Division, OU=(c) 2006 thawte, Inc. - For authorized use only, CN=thawte Primary Root CA
+  Fingerprint 91:C6:D6:EE:3E:8A:C8:63:84:E5:48:C2:99:29:5C:75:6C:81:7B:81
+  Serial: 344ED55720D5EDEC49F42FCE37DB2B6D
+  Expires: Jul 16 23:59:59 2036 GMT
+
+- Name: C=US, O=thawte, Inc., OU=Certification Services Division, OU=(c) 2008 thawte, Inc. - For authorized use only, CN=thawte Primary Root CA - G3
+  Fingerprint F1:8B:53:8D:1B:E9:03:B6:A6:F0:56:43:5B:17:15:89:CA:F3:6B:F2
+  Serial: 600197B746A7EAB4B49AD64B2FF790FB
+  Expires: Dec  1 23:59:59 2037 GMT
+
+- Name: C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., CN=Go Daddy Root Certificate Authority - G2
+  Fingerprint 47:BE:AB:C9:22:EA:E8:0E:78:78:34:62:A7:9F:45:C2:54:FD:E6:8B
+  Serial: 00
+  Expires: Dec 31 23:59:59 2037 GMT
+
+- Name: C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Root Certificate Authority - G2
+  Fingerprint B5:1C:06:7C:EE:2B:0C:3D:F8:55:AB:2D:92:F4:FE:39:D4:E7:0F:0E
+  Serial: 00
+  Expires: Dec 31 23:59:59 2037 GMT
+
+- Name: C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., CN=Starfield Services Root Certificate Authority - G2
+  Fingerprint 92:5A:8F:8D:2C:6D:04:E0:66:5F:59:6A:FF:22:D8:63:E8:25:6F:3F
+  Serial: 00
+  Expires: Dec 31 23:59:59 2037 GMT
+
+- Name: C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust ECC Certification Authority
+  Fingerprint D1:CB:CA:5D:B2:D5:2A:7F:69:3B:67:4D:E5:F0:5A:1D:0C:95:7D:F0
+  Serial: 5C8B99C55A94C5D27156DECD8980CC26
+  Expires: Jan 18 23:59:59 2038 GMT
+
+- Name: C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust RSA Certification Authority
+  Fingerprint 2B:8F:1B:57:33:0D:BB:A2:D0:7A:6C:51:F7:0E:E9:0D:DA:B9:AD:8E
+  Serial: 01FD6D30FCA3CA51A81BBC640E35032D
+  Expires: Jan 18 23:59:59 2038 GMT
+
+- Name: C=US, ST=Texas, L=Houston, O=SSL Corporation, CN=SSL.com EV Root Certification Authority ECC
+  Fingerprint 4C:DD:51:A3:D1:F5:20:32:14:B0:C6:C5:32:23:03:91:C7:46:42:6D
+  Serial: 2C299C5B16ED0595
+  Expires: Feb 12 18:15:23 2041 GMT
+
+- Name: C=US, ST=Texas, L=Houston, O=SSL Corporation, CN=SSL.com EV Root Certification Authority RSA R2
+  Fingerprint 74:3A:F0:52:9B:D0:32:A0:F4:4A:83:CD:D4:BA:A9:7B:7C:2E:C4:9A
+  Serial: 56B629CD34BC78F6
+  Expires: May 30 18:14:37 2042 GMT
+
+- Name: C=US, ST=Texas, L=Houston, O=SSL Corporation, CN=SSL.com Root Certification Authority ECC
+  Fingerprint C3:19:7C:39:24:E6:54:AF:1B:C4:AB:20:95:7A:E2:C3:0E:13:02:6A
+  Serial: 75E6DFCBC1685BA8
+  Expires: Feb 12 18:14:03 2041 GMT
+
+- Name: C=US, ST=Texas, L=Houston, O=SSL Corporation, CN=SSL.com Root Certification Authority RSA
+  Fingerprint B7:AB:33:08:D1:EA:44:77:BA:14:80:12:5A:6F:BD:A9:36:49:0C:BB
+  Serial: 7B2C9BD316803299
+  Expires: Feb 12 17:39:39 2041 GMT
+
+- Name: O=Entrust.net, OU=www.entrust.net/CPS_2048 incorp. by ref. (limits liab.), OU=(c) 1999 Entrust.net Limited, CN=Entrust.net Certification Authority (2048)
+  Fingerprint 50:30:06:09:1D:97:D4:F5:AE:39:F7:CB:E7:92:7D:7D:65:2D:34:31
+  Serial: 3863DEF8
+  Expires: Jul 24 14:15:12 2029 GMT
+
+- Name: OU=GlobalSign ECC Root CA - R4, O=GlobalSign, CN=GlobalSign
+  Fingerprint 69:69:56:2E:40:80:F4:24:A1:E7:19:9F:14:BA:F3:EE:58:AB:6A:BB
+  Serial: 2A38A41C960A04DE42B228A50BE8349802
+  Expires: Jan 19 03:14:07 2038 GMT
+
+- Name: OU=GlobalSign ECC Root CA - R5, O=GlobalSign, CN=GlobalSign
+  Fingerprint 1F:24:C6:30:CD:A4:18:EF:20:69:FF:AD:4F:DD:5F:46:3A:1B:69:AA
+  Serial: 605949E0262EBB55F90A778A71F94AD86C
+  Expires: Jan 19 03:14:07 2038 GMT
+
+- Name: OU=GlobalSign Root CA - R3, O=GlobalSign, CN=GlobalSign
+  Fingerprint D6:9B:56:11:48:F0:1C:77:C5:45:78:C1:09:26:DF:5B:85:69:76:AD
+  Serial: 04000000000121585308A2
+  Expires: Mar 18 10:00:00 2029 GMT
+
+- Name: OU=GlobalSign Root CA - R6, O=GlobalSign, CN=GlobalSign
+  Fingerprint 80:94:64:0E:B5:A7:A1:CA:11:9C:1F:DD:D5:9F:81:02:63:A7:FB:D1
+  Serial: 45E6BB038333C3856548E6FF4551
+  Expires: Dec 10 00:00:00 2034 GMT
 
