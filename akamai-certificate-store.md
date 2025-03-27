@@ -1,6 +1,6 @@
 # Akamai's Certificate Store
 
-There are 91 entries. Links below point to the full certificate
+There are 93 entries. Links below point to the full certificate
 on https://cert.sh
 
 - Name: [C=BE, O=GlobalSign nv-sa, CN=GlobalSign Root E46](https://crt.sh?q=CBB9C44D84B8043E1050EA31A69F514955D7BFD2E2C6B49301019AD61D9F5058)
@@ -97,6 +97,16 @@ on https://cert.sh
   - Fingerprint D1:EB:23:A4:6D:17:D6:8F:D9:25:64:C2:F1:F1:60:17:64:D8:E3:49
   - Serial: 01
   - Expires: Dec 31 23:59:59 2028 GMT
+
+- Name: [C=GR, O=Hellenic Academic and Research Institutions CA, CN=HARICA TLS ECC Root CA 2021](https://crt.sh?q=3F99CC474ACFCE4DFED58794665E478D1547739F2E780F1BB4CA9B133097D401)
+  - Fingerprint BC:B0:C1:9D:E9:98:92:70:19:38:57:E9:8D:A7:B4:5D:6E:EE:01:48
+  - Serial: 67749D8D77D83B6ADB22F4FF59E2BFCE
+  - Expires: Feb 13 11:01:09 2045 GMT
+
+- Name: [C=GR, O=Hellenic Academic and Research Institutions CA, CN=HARICA TLS RSA Root CA 2021](https://crt.sh?q=D95D0E8EDA79525BF9BEB11B14D2100D3294985F0C62D9FABD9CD999ECCB7B1D)
+  - Fingerprint 02:2D:05:82:FA:88:CE:14:0C:06:79:DE:7F:14:10:E9:45:D7:A5:6D
+  - Serial: 39CA931CEF43F3C68E93C7F46489387E
+  - Expires: Feb 13 10:55:37 2045 GMT
 
 - Name: [C=IE, O=Baltimore, OU=CyberTrust, CN=Baltimore CyberTrust Root](https://crt.sh?q=16AF57A9F676B0AB126095AA5EBADEF22AB31119D644AC95CD4B93DBF3F26AEB)
   - Fingerprint D4:DE:20:D0:5E:66:FC:53:FE:1A:50:88:2C:78:DB:28:52:CA:E4:74
