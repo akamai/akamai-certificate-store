@@ -1,7 +1,7 @@
 # Akamai's Certificate Store
 
 There are 93 entries. Links below point to the full certificate
-on https://cert.sh
+on https://crt.sh
 
 - Name: [C=BE, O=GlobalSign nv-sa, CN=GlobalSign Root E46](https://crt.sh?q=CBB9C44D84B8043E1050EA31A69F514955D7BFD2E2C6B49301019AD61D9F5058)
   - Fingerprint 39:B4:6C:D5:FE:80:06:EB:E2:2F:4A:BB:08:33:A0:AF:DB:B9:DD:84
