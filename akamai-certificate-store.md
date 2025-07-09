@@ -1,6 +1,6 @@
 # Akamai's Certificate Store
 
-There are 93 entries. Links below point to the full certificate
+There are 92 entries. Links below point to the full certificate
 on https://crt.sh
 
 - Name: [C=BE, O=GlobalSign nv-sa, CN=GlobalSign Root E46](https://crt.sh?q=CBB9C44D84B8043E1050EA31A69F514955D7BFD2E2C6B49301019AD61D9F5058)
@@ -107,11 +107,6 @@ on https://crt.sh
   - Fingerprint 02:2D:05:82:FA:88:CE:14:0C:06:79:DE:7F:14:10:E9:45:D7:A5:6D
   - Serial: 39CA931CEF43F3C68E93C7F46489387E
   - Expires: Feb 13 10:55:37 2045 GMT
-
-- Name: [C=IE, O=Baltimore, OU=CyberTrust, CN=Baltimore CyberTrust Root](https://crt.sh?q=16AF57A9F676B0AB126095AA5EBADEF22AB31119D644AC95CD4B93DBF3F26AEB)
-  - Fingerprint D4:DE:20:D0:5E:66:FC:53:FE:1A:50:88:2C:78:DB:28:52:CA:E4:74
-  - Serial: 020000B9
-  - Expires: May 12 23:59:00 2025 GMT
 
 - Name: [C=IN, OU=emSign PKI, O=eMudhra Technologies Limited, CN=emSign ECC Root CA - G3](https://crt.sh?q=86A1ECBA089C4A8D3BBE2734C612BA341D813E043CF9E8A862CD5C57A36BBE6B)
   - Fingerprint 30:43:FA:4F:F2:57:DC:A0:C3:80:EE:2E:58:EA:78:B2:3F:E6:BB:C1
