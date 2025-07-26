@@ -1,6 +1,6 @@
 # Akamai's Certificate Store
 
-There are 92 entries. Links below point to the full certificate
+There are 95 entries. Links below point to the full certificate
 on https://crt.sh
 
 - Name: [C=BE, O=GlobalSign nv-sa, CN=GlobalSign Root E46](https://crt.sh?q=CBB9C44D84B8043E1050EA31A69F514955D7BFD2E2C6B49301019AD61D9F5058)
@@ -407,6 +407,21 @@ on https://crt.sh
   - Fingerprint 92:5A:8F:8D:2C:6D:04:E0:66:5F:59:6A:FF:22:D8:63:E8:25:6F:3F
   - Serial: 00
   - Expires: Dec 31 23:59:59 2037 GMT
+
+- Name: [C=US, ST=Illinois, L=Chicago, O=Trustwave Holdings, Inc., CN=Trustwave Global Certification Authority](https://crt.sh?q=97552015F5DDFC3C8788C006944555408894450084F100867086BC1A2BB58DC8)
+  - Fingerprint 2F:8F:36:4F:E1:58:97:44:21:59:87:A5:2A:9A:D0:69:95:26:7F:B5
+  - Serial: 05F70E86DA49F346352EBAB2
+  - Expires: Aug 23 19:34:12 2042 GMT
+
+- Name: [C=US, ST=Illinois, L=Chicago, O=Trustwave Holdings, Inc., CN=Trustwave Global ECC P256 Certification Authority](https://crt.sh?q=945BBC825EA554F489D1FD51A73DDF2EA624AC7019A05205225C22A78CCFA8B4)
+  - Fingerprint B4:90:82:DD:45:0C:BE:8B:5B:B1:66:D3:E2:A4:08:26:CD:ED:42:CF
+  - Serial: 0D6A5F083F285C3E5195DF5D
+  - Expires: Aug 23 19:35:10 2042 GMT
+
+- Name: [C=US, ST=Illinois, L=Chicago, O=Trustwave Holdings, Inc., CN=Trustwave Global ECC P384 Certification Authority](https://crt.sh?q=55903859C8C0C3EBB8759ECE4E2557225FF5758BBD38EBD48276601E1BD58097)
+  - Fingerprint E7:F3:A3:C8:CF:6F:C3:04:2E:6D:0E:67:32:C5:9E:68:95:0D:5E:D2
+  - Serial: 08BD85976C9927A48068473B
+  - Expires: Aug 23 19:36:43 2042 GMT
 
 - Name: [C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust ECC Certification Authority](https://crt.sh?q=4FF460D54B9C86DABFBCFC5712E0400D2BED3FBC4D4FBDAA86E06ADCD2A9AD7A)
   - Fingerprint D1:CB:CA:5D:B2:D5:2A:7F:69:3B:67:4D:E5:F0:5A:1D:0C:95:7D:F0
