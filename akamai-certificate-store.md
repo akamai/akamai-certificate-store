@@ -1,6 +1,6 @@
 # Akamai's Certificate Store
 
-There are 95 entries. Links below point to the full certificate
+There are 86 entries. Links below point to the full certificate
 on https://crt.sh
 
 - Name: [C=BE, O=GlobalSign nv-sa, CN=GlobalSign Root E46](https://crt.sh?q=CBB9C44D84B8043E1050EA31A69F514955D7BFD2E2C6B49301019AD61D9F5058)
@@ -158,26 +158,6 @@ on https://crt.sh
   - Serial: 01
   - Expires: Dec 31 15:59:59 2030 GMT
 
-- Name: [C=US, O=AffirmTrust, CN=AffirmTrust Commercial](https://crt.sh?q=0376AB1D54C5F9803CE4B2E201A0EE7EEF7B57B636E8A93C9B8D4860C96F5FA7)
-  - Fingerprint F9:B5:B6:32:45:5F:9C:BE:EC:57:5F:80:DC:E9:6E:2C:C7:B2:78:B7
-  - Serial: 7777062726A9B17C
-  - Expires: Dec 31 14:06:06 2030 GMT
-
-- Name: [C=US, O=AffirmTrust, CN=AffirmTrust Networking](https://crt.sh?q=0A81EC5A929777F145904AF38D5D509F66B5E2C58FCDB531058B0E17F3F0B41B)
-  - Fingerprint 29:36:21:02:8B:20:ED:02:F5:66:C5:32:D1:D6:ED:90:9F:45:00:2F
-  - Serial: 7C4F04391CD4992D
-  - Expires: Dec 31 14:08:24 2030 GMT
-
-- Name: [C=US, O=AffirmTrust, CN=AffirmTrust Premium](https://crt.sh?q=70A73F7F376B60074248904534B11482D5BF0E698ECC498DF52577EBF2E93B9A)
-  - Fingerprint D8:A6:33:2C:E0:03:6F:B1:85:F6:63:4F:7D:6A:06:65:26:32:28:27
-  - Serial: 6D8C1446B1A60AEE
-  - Expires: Dec 31 14:10:36 2040 GMT
-
-- Name: [C=US, O=AffirmTrust, CN=AffirmTrust Premium ECC](https://crt.sh?q=BD71FDF6DA97E4CF62D1647ADD2581B07D79ADF8397EB4ECBA9C5E8488821423)
-  - Fingerprint B8:23:6B:00:2F:1D:16:86:53:01:55:6C:11:A4:37:CA:EB:FF:C3:BB
-  - Serial: 7497258AC73F7A54
-  - Expires: Dec 31 14:20:24 2040 GMT
-
 - Name: [C=US, O=Amazon, CN=Amazon Root CA 1](https://crt.sh?q=8ECDE6884F3D87B1125BA31AC3FCB13D7016DE7F57CC904FE1CB97C6AE98196E)
   - Fingerprint 8D:A7:F9:65:EC:5E:FC:37:91:0F:1C:6E:59:FD:C1:CC:6A:6E:DE:16
   - Serial: 066C9FCF99BF8C0A39E2F0788A43E696365BCA
@@ -247,26 +227,6 @@ on https://crt.sh
   - Fingerprint A7:88:49:DC:5D:7C:75:8C:8C:DE:39:98:56:B3:AA:D0:B2:A5:71:35
   - Serial: 08F9B478A8FA7EDA6A333789DE7CCF8A
   - Expires: Jan 14 23:59:59 2046 GMT
-
-- Name: [C=US, O=Entrust, Inc., OU=See www.entrust.net/legal-terms, OU=(c) 2009 Entrust, Inc. - for authorized use only, CN=Entrust Root Certification Authority - G2](https://crt.sh?q=43DF5774B03E7FEF5FE40D931A7BEDF1BB2E6B42738C4E6D3841103D3AA7F339)
-  - Fingerprint 8C:F4:27:FD:79:0C:3A:D1:66:06:8D:E8:1E:57:EF:BB:93:22:72:D4
-  - Serial: 4A538C28
-  - Expires: Dec  7 17:55:54 2030 GMT
-
-- Name: [C=US, O=Entrust, Inc., OU=See www.entrust.net/legal-terms, OU=(c) 2012 Entrust, Inc. - for authorized use only, CN=Entrust Root Certification Authority - EC1](https://crt.sh?q=02ED0EB28C14DA45165C566791700D6451D7FB56F0B2AB1D3B8EB070E56EDFF5)
-  - Fingerprint 20:D8:06:40:DF:9B:25:F5:12:25:3A:11:EA:F7:59:8A:EB:14:B5:47
-  - Serial: A68B79290000000050D091F9
-  - Expires: Dec 18 15:55:36 2037 GMT
-
-- Name: [C=US, O=Entrust, Inc., OU=See www.entrust.net/legal-terms, OU=(c) 2015 Entrust, Inc. - for authorized use only, CN=Entrust Root Certification Authority - G4](https://crt.sh?q=DB3517D1F6732A2D5AB97C533EC70779EE3270A62FB4AC4238372460E6F01E88)
-  - Fingerprint 14:88:4E:86:26:37:B0:26:AF:59:62:5C:40:77:EC:35:29:BA:96:01
-  - Serial: D9B5437FAFA9390F000000005565AD58
-  - Expires: Dec 27 11:41:16 2037 GMT
-
-- Name: [C=US, O=Entrust, Inc., OU=www.entrust.net/CPS is incorporated by reference, OU=(c) 2006 Entrust, Inc., CN=Entrust Root Certification Authority](https://crt.sh?q=73C176434F1BC6D5ADF45B0E76E727287C8DE57616C1E6E6141A2B2CBC7D8E4C)
-  - Fingerprint B3:1E:B1:B7:40:E3:6C:84:02:DA:DC:37:D4:4D:F5:D4:67:49:52:F9
-  - Serial: 456B5054
-  - Expires: Nov 27 20:53:42 2026 GMT
 
 - Name: [C=US, O=GeoTrust Inc., CN=GeoTrust Primary Certification Authority](https://crt.sh?q=37D51006C512EAAB626421F1EC8C92013FC5F82AE98EE533EB4619B8DEB4D06C)
   - Fingerprint 32:3C:11:8E:1B:F7:B8:B6:52:54:E2:E2:10:0D:D6:02:90:37:F0:96
@@ -452,11 +412,6 @@ on https://crt.sh
   - Fingerprint B7:AB:33:08:D1:EA:44:77:BA:14:80:12:5A:6F:BD:A9:36:49:0C:BB
   - Serial: 7B2C9BD316803299
   - Expires: Feb 12 17:39:39 2041 GMT
-
-- Name: [O=Entrust.net, OU=www.entrust.net/CPS_2048 incorp. by ref. (limits liab.), OU=(c) 1999 Entrust.net Limited, CN=Entrust.net Certification Authority (2048)](https://crt.sh?q=6DC47172E01CBCB0BF62580D895FE2B8AC9AD4F873801E0C10B9C837D21EB177)
-  - Fingerprint 50:30:06:09:1D:97:D4:F5:AE:39:F7:CB:E7:92:7D:7D:65:2D:34:31
-  - Serial: 3863DEF8
-  - Expires: Jul 24 14:15:12 2029 GMT
 
 - Name: [OU=GlobalSign ECC Root CA - R4, O=GlobalSign, CN=GlobalSign](https://crt.sh?q=BEC94911C2955676DB6C0A550986D76E3BA005667C442C9762B4FBB773DE228C)
   - Fingerprint 69:69:56:2E:40:80:F4:24:A1:E7:19:9F:14:BA:F3:EE:58:AB:6A:BB
