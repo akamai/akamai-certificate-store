@@ -50,7 +50,7 @@ list, it will not impact any of them. Therefore, we need to be more careful
 about removal than the browsers, who prioritize the overall safety of the
 Internet first.
 
-In a related manner, we have 21 CAs that were in the store before this policy
+In a related manner, we have 18 CAs that were in the store before this policy
 was implemented. We would like to remove these exceptions, but as noted
 above, we will be doing this carefully over time so that we do not DoS our
 customers.
